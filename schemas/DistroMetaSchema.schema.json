@@ -1,0 +1,46 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "DistroMetaSchema",
+  "type": "object",
+  "required": [
+    "meta"
+  ],
+  "properties": {
+    "$schema": {
+      "type": "string"
+    },
+    "meta": {
+      "type": "object",
+      "required": [
+        "rss"
+      ],
+      "properties": {
+        "rss": {
+          "type": "string"
+        },
+        "discord": {
+          "type": "object",
+          "required": [
+            "clientId",
+            "smallImageText",
+            "smallImageKey"
+          ],
+          "properties": {
+            "clientId": {
+              "type": "string"
+            },
+            "smallImageText": {
+              "type": "string"
+            },
+            "smallImageKey": {
+              "type": "string"
+            }
+          },
+          "additionalProperties": false
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}
