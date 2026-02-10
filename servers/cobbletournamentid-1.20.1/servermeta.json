@@ -1,0 +1,15 @@
+{
+  "$schema": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.3/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "Cobble Tournament",
+    "description": "O Melhor Servidor de Minecraft do Brasil",
+    "address": "cobbletournament.redmc.com.br",
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "47.4.0"
+  },
+  "untrackedFiles": []
+}
