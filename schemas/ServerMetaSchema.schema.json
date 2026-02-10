@@ -1,0 +1,121 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ServerMetaSchema",
+  "type": "object",
+  "required": [
+    "meta"
+  ],
+  "properties": {
+    "$schema": {
+      "type": "string"
+    },
+    "meta": {
+      "type": "object",
+      "required": [
+        "version",
+        "name",
+        "description",
+        "address",
+        "mainServer",
+        "autoconnect"
+      ],
+      "properties": {
+        "version": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "icon": {
+          "type": "string"
+        },
+        "address": {
+          "type": "string"
+        },
+        "discord": {
+          "type": "object",
+          "required": [
+            "shortId",
+            "largeImageText",
+            "largeImageKey"
+          ],
+          "properties": {
+            "shortId": {
+              "type": "string"
+            },
+            "largeImageText": {
+              "type": "string"
+            },
+            "largeImageKey": {
+              "type": "string"
+            }
+          },
+          "additionalProperties": false
+        },
+        "mainServer": {
+          "type": "boolean"
+        },
+        "autoconnect": {
+          "type": "boolean"
+        },
+        "javaOptions": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    },
+    "forge": {
+      "type": "object",
+      "required": [
+        "version"
+      ],
+      "properties": {
+        "version": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    },
+    "fabric": {
+      "type": "object",
+      "required": [
+        "version"
+      ],
+      "properties": {
+        "version": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    },
+    "untrackedFiles": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "appliesTo",
+          "patterns"
+        ],
+        "properties": {
+          "appliesTo": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "patterns": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}
