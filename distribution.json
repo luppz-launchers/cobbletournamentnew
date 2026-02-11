@@ -26,7 +26,6 @@
             "MD5": "39c68f8be018557068512f16cf3f97fa",
             "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/lib__net__minecraftforge__lowcodelanguage__1.20.1-47.4.10__lowcodelanguage-1.20.1-47.4.10.jar"
           },
-          "classpath": true,
           "subModules": [
             {
               "id": "1.20.1-47.4.10",
@@ -424,7 +423,8 @@
                 "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/lib__net__minecraftforge__fmlearlydisplay__1.20.1-47.4.10__fmlearlydisplay-1.20.1-47.4.10.jar"
               }
             }
-          ]
+          ],
+          "classpath": true
         },
         {
           "id": "generated.forgemod:bbs:1.7.7-1.20.1@jar",
@@ -432,8 +432,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5986273,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__bbs-1.7.7-1.20.1.jar.disabled",
-            "MD5": "d5b758ee46fd73af53d96ebd83f80c41"
+            "MD5": "d5b758ee46fd73af53d96ebd83f80c41",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__bbs-1.7.7-1.20.1.jar.disabled"
           }
         },
         {
@@ -442,8 +442,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7449459,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__bbs-cml-edition-1.8.1-1.20.1.jar",
-            "MD5": "8aec2fd74138343581d07df84272fdd5"
+            "MD5": "8aec2fd74138343581d07df84272fdd5",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__bbs-cml-edition-1.8.1-1.20.1.jar"
           }
         },
         {
@@ -452,18 +452,18 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 50745,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__bendy-lib-forge-4.0.0.jar",
-            "MD5": "bc0c274fb611ac45ce907c749ab8a12c"
+            "MD5": "bc0c274fb611ac45ce907c749ab8a12c",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__bendy-lib-forge-4.0.0.jar"
           }
         },
         {
-          "id": "generated.forgemod:better mob food : Version 1.0.1 (Beta)@jar",
+          "id": "generated.forgemod:cobbletournamentid:1.20.1__Better Mob Food - Version 1.0.1 (Beta)@jar",
           "name": "Better Mob Food ",
           "type": "ForgeMod",
           "artifact": {
             "size": 11133,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__Better%20Mob%20Food%20-%20Version%201.0.1%20(Beta).jar",
-            "MD5": "4a01bb699ff3bfd8687c37953ecf1fb2"
+            "MD5": "4a01bb699ff3bfd8687c37953ecf1fb2",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__Better%20Mob%20Food%20-%20Version%201.0.1%20(Beta).jar"
           }
         },
         {
@@ -472,8 +472,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1054339,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__bettercombat-forge-1.9.0+1.20.1.jar",
-            "MD5": "beda88b256ef11b4560a664ac66209e6"
+            "MD5": "beda88b256ef11b4560a664ac66209e6",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__bettercombat-forge-1.9.0%2B1.20.1.jar"
           }
         },
         {
@@ -482,8 +482,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 21800460,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__BiomesOPlenty-1.20.1-18.0.0.592.jar",
-            "MD5": "93c32edd5fff6332bc0bebf2f7a0d821"
+            "MD5": "93c32edd5fff6332bc0bebf2f7a0d821",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__BiomesOPlenty-1.20.1-18.0.0.592.jar"
           }
         },
         {
@@ -492,8 +492,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 343962,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__Bookshelf-Forge-1.20.1-20.2.13.jar",
-            "MD5": "f9e7c8464b98fabc48e476d525eb2bdf"
+            "MD5": "f9e7c8464b98fabc48e476d525eb2bdf",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__Bookshelf-Forge-1.20.1-20.2.13.jar"
           }
         },
         {
@@ -502,18 +502,18 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2813612,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__braziliandelight-forge-2.0.3+1.20.1.jar",
-            "MD5": "10407832f9fea9d8b7201d8e7281496b"
+            "MD5": "10407832f9fea9d8b7201d8e7281496b",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__braziliandelight-forge-2.0.3%2B1.20.1.jar"
           }
         },
         {
-          "id": "generated.forgemod:bulletarmorenchant:1.0-1.20.1 chineseadd@jar",
+          "id": "generated.forgemod:cobbletournamentid:1.20.1__bulletarmorenchant-1.0-1.20.1 chineseadd@jar",
           "name": "bulletarmorenchant",
           "type": "ForgeMod",
           "artifact": {
             "size": 10781,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__bulletarmorenchant-1.0-1.20.1%20chineseadd.jar",
-            "MD5": "e29af3334ee581c926f64a180f8a5849"
+            "MD5": "e29af3334ee581c926f64a180f8a5849",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__bulletarmorenchant-1.0-1.20.1%20chineseadd.jar"
           }
         },
         {
@@ -522,8 +522,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1900376,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__butchercraft-2.4.1.jar",
-            "MD5": "008158b1b5f08280a07738c65528fd1c"
+            "MD5": "008158b1b5f08280a07738c65528fd1c",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__butchercraft-2.4.1.jar"
           }
         },
         {
@@ -532,8 +532,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 40125,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__caelus-forge-3.2.0+1.20.1.jar",
-            "MD5": "c45478e3b749184ba2c4af53461bf305"
+            "MD5": "c45478e3b749184ba2c4af53461bf305",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__caelus-forge-3.2.0%2B1.20.1.jar"
           }
         },
         {
@@ -542,8 +542,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 439457,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__carryon-forge-1.20.1-2.1.2.7.jar",
-            "MD5": "7cb35689c51ce12a04842c52b7c662a2"
+            "MD5": "7cb35689c51ce12a04842c52b7c662a2",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__carryon-forge-1.20.1-2.1.2.7.jar"
           }
         },
         {
@@ -552,8 +552,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2613393,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__cfm-forge-1.20.1-7.0.0-pre36.jar",
-            "MD5": "2786f7fac0c9d9daa84f7a4edc542c99"
+            "MD5": "2786f7fac0c9d9daa84f7a4edc542c99",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__cfm-forge-1.20.1-7.0.0-pre36.jar"
           }
         },
         {
@@ -562,8 +562,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 15060263,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__chipped-forge-1.20.1-3.0.7.jar",
-            "MD5": "786ec7c677355b80b047bf57e786724c"
+            "MD5": "786ec7c677355b80b047bf57e786724c",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__chipped-forge-1.20.1-3.0.7.jar"
           }
         },
         {
@@ -572,8 +572,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2804717,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__chisel_chipped_integration-v1.1.6-1.20.1.jar",
-            "MD5": "0063e0d1039ae2663881715d0c8c8f77"
+            "MD5": "0063e0d1039ae2663881715d0c8c8f77",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__chisel_chipped_integration-v1.1.6-1.20.1.jar"
           }
         },
         {
@@ -582,8 +582,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 956080,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__chloride-FORGE-mc1.20.1-v1.7.5.jar",
-            "MD5": "41201f871f801d9412a90877b8419c3b"
+            "MD5": "41201f871f801d9412a90877b8419c3b",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__chloride-FORGE-mc1.20.1-v1.7.5.jar"
           }
         },
         {
@@ -592,8 +592,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 341451,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__Chunky-1.3.146.jar",
-            "MD5": "0a1246edc80ef3c416643fe07c5795e2"
+            "MD5": "0a1246edc80ef3c416643fe07c5795e2",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__Chunky-1.3.146.jar"
           }
         },
         {
@@ -602,8 +602,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3185275,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__citadel-2.6.3-1.20.1.jar",
-            "MD5": "9bc080da9b828d995b0e586d7bcc6de7"
+            "MD5": "9bc080da9b828d995b0e586d7bcc6de7",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__citadel-2.6.3-1.20.1.jar"
           }
         },
         {
@@ -612,8 +612,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 352900,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__clockworklib-1.20.1-1.0.0.jar",
-            "MD5": "e70b5ef9c4df63218185e2bb74aa18cf"
+            "MD5": "e70b5ef9c4df63218185e2bb74aa18cf",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__clockworklib-1.20.1-1.0.0.jar"
           }
         },
         {
@@ -622,8 +622,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1181413,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__cloth-config-11.1.136-forge.jar",
-            "MD5": "ace55dca0ca3b4bc95a60a0153efd73b"
+            "MD5": "ace55dca0ca3b4bc95a60a0153efd73b",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__cloth-config-11.1.136-forge.jar"
           }
         },
         {
@@ -632,8 +632,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 20299,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__Clumps-forge-1.20.1-12.0.0.4.jar",
-            "MD5": "18c7efc9b56adf27e4d08d1e75493d0c"
+            "MD5": "18c7efc9b56adf27e4d08d1e75493d0c",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__Clumps-forge-1.20.1-12.0.0.4.jar"
           }
         },
         {
@@ -642,8 +642,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 665169,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__collective-1.20.1-8.13.jar",
-            "MD5": "af12e1abbef80b465a6026fe48424c5e"
+            "MD5": "af12e1abbef80b465a6026fe48424c5e",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__collective-1.20.1-8.13.jar"
           }
         },
         {
@@ -652,8 +652,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 418929,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__configured-forge-1.20.1-2.2.3.jar",
-            "MD5": "31dc809323c599c5402a68a592ebfc25"
+            "MD5": "31dc809323c599c5402a68a592ebfc25",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__configured-forge-1.20.1-2.2.3.jar"
           }
         },
         {
@@ -662,8 +662,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 120598,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__connectivity-1.20.1-7.6.jar",
-            "MD5": "00777959b3a7a0fa4bb80d2ea3053833"
+            "MD5": "00777959b3a7a0fa4bb80d2ea3053833",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__connectivity-1.20.1-7.6.jar"
           }
         },
         {
@@ -672,8 +672,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5043863,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__Connector-1.0.0-beta.47+1.20.1.jar",
-            "MD5": "4e38523acb1ced158e329a778c02a39a"
+            "MD5": "4e38523acb1ced158e329a778c02a39a",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__Connector-1.0.0-beta.47%2B1.20.1.jar"
           }
         },
         {
@@ -682,8 +682,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 115280,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__Controlling-forge-1.20.1-12.0.2.jar",
-            "MD5": "bc742295a9bb949947873e73fa738f55"
+            "MD5": "bc742295a9bb949947873e73fa738f55",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__Controlling-forge-1.20.1-12.0.2.jar"
           }
         },
         {
@@ -692,8 +692,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 360700,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__Corgilib-Forge-1.20.1-4.0.3.4.jar",
-            "MD5": "9f01eaa9f569f0c3840d7ff4cdc4da51"
+            "MD5": "9f01eaa9f569f0c3840d7ff4cdc4da51",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__Corgilib-Forge-1.20.1-4.0.3.4.jar"
           }
         },
         {
@@ -702,8 +702,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 64187,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__coroutil-forge-1.20.1-1.3.7.jar",
-            "MD5": "beccb96fdac1058cd124c26143967e12"
+            "MD5": "beccb96fdac1058cd124c26143967e12",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__coroutil-forge-1.20.1-1.3.7.jar"
           }
         },
         {
@@ -712,8 +712,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 23655,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__corpsecurioscompat-1.20.1-Forge-3.1.3.jar",
-            "MD5": "6b0bdc0b8ddf414a46abb9bf47953121"
+            "MD5": "6b0bdc0b8ddf414a46abb9bf47953121",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__corpsecurioscompat-1.20.1-Forge-3.1.3.jar"
           }
         },
         {
@@ -722,8 +722,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 245644,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__corpse-forge-1.20.1-1.0.23.jar",
-            "MD5": "76f686a4587ee4f5b61ce3466dc1b56c"
+            "MD5": "76f686a4587ee4f5b61ce3466dc1b56c",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__corpse-forge-1.20.1-1.0.23.jar"
           }
         },
         {
@@ -732,8 +732,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 88752,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__cosmeticarmorreworked-1.20.1-v1a.jar",
-            "MD5": "5e075424adcb259a65e6fcc01d26e302"
+            "MD5": "5e075424adcb259a65e6fcc01d26e302",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__cosmeticarmorreworked-1.20.1-v1a.jar"
           }
         },
         {
@@ -742,8 +742,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1158417,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__CreativeCore_FORGE_v2.12.32_mc1.20.1.jar",
-            "MD5": "00e1ab7a0d2d36afa18e2df97b66c2db"
+            "MD5": "00e1ab7a0d2d36afa18e2df97b66c2db",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__CreativeCore_FORGE_v2.12.32_mc1.20.1.jar"
           }
         },
         {
@@ -752,8 +752,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 736528,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__creepydecorations-forge-1.20.1-1.0.3.jar",
-            "MD5": "a8fdf086e58e34425d63c2f13c203baf"
+            "MD5": "a8fdf086e58e34425d63c2f13c203baf",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__creepydecorations-forge-1.20.1-1.0.3.jar"
           }
         },
         {
@@ -762,8 +762,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 871742,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__Cuffed-1.20.1-1.3.13.jar",
-            "MD5": "7e107663f001ed82f274703b5e56cfce"
+            "MD5": "7e107663f001ed82f274703b5e56cfce",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__Cuffed-1.20.1-1.3.13.jar"
           }
         },
         {
@@ -772,8 +772,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 22474,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__CullLessLeaves-Reforged-1.20.1-1.0.5.jar",
-            "MD5": "7bb075a6d6e0fbb39155d9a8d33f1390"
+            "MD5": "7bb075a6d6e0fbb39155d9a8d33f1390",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__CullLessLeaves-Reforged-1.20.1-1.0.5.jar"
           }
         },
         {
@@ -782,8 +782,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 25983,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__cupboard-1.20.1-2.7.jar",
-            "MD5": "24912036f57bf474bfe51f8d3a7633e1"
+            "MD5": "24912036f57bf474bfe51f8d3a7633e1",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__cupboard-1.20.1-2.7.jar"
           }
         },
         {
@@ -792,8 +792,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 398066,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__curios-forge-5.14.1+1.20.1.jar",
-            "MD5": "7cc9dc2fb2c466bc7c402b4959712e79"
+            "MD5": "7cc9dc2fb2c466bc7c402b4959712e79",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__curios-forge-5.14.1%2B1.20.1.jar"
           }
         },
         {
@@ -802,8 +802,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 94319937,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__decocraft-3.0.4-1.20.1-slim.jar",
-            "MD5": "f212f52795c899b05cca875fb59cfc22"
+            "MD5": "f212f52795c899b05cca875fb59cfc22",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__decocraft-3.0.4-1.20.1-slim.jar"
           }
         },
         {
@@ -812,8 +812,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 804529,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__deltaboxlib-forge-2.2.0+1.20.1.jar",
-            "MD5": "9fcd990b693eb214347e42f1021721bd"
+            "MD5": "9fcd990b693eb214347e42f1021721bd",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__deltaboxlib-forge-2.2.0%2B1.20.1.jar"
           }
         },
         {
@@ -822,8 +822,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 14228,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__dooms-core-2.0.1.jar",
-            "MD5": "271e1bc2b553c3edf0fd9ba27783aaa9"
+            "MD5": "271e1bc2b553c3edf0fd9ba27783aaa9",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__dooms-core-2.0.1.jar"
           }
         },
         {
@@ -832,8 +832,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 9658884,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__doomsday_decoration-1.1.3-forge-1.20.1.jar",
-            "MD5": "1fd20b782c1ded73ad001c907d2f6be2"
+            "MD5": "1fd20b782c1ded73ad001c907d2f6be2",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__doomsday_decoration-1.1.3-forge-1.20.1.jar"
           }
         },
         {
@@ -842,8 +842,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 415067,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__DustrialDecor-1.3.5-1.20.jar",
-            "MD5": "a4269736ecab1cf994fa37599f33dd3c"
+            "MD5": "a4269736ecab1cf994fa37599f33dd3c",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__DustrialDecor-1.3.5-1.20.jar"
           }
         },
         {
@@ -852,8 +852,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 49564,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__dynamiclights-1.20.1.2.jar",
-            "MD5": "df1fdb8d9e915c34c5554ea7559aa30a"
+            "MD5": "df1fdb8d9e915c34c5554ea7559aa30a",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__dynamiclights-1.20.1.2.jar"
           }
         },
         {
@@ -862,8 +862,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1320675,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__embeddium-0.3.31+mc1.20.1.jar",
-            "MD5": "e42efb1d5dade99ceef34f48b728d6a0"
+            "MD5": "e42efb1d5dade99ceef34f48b728d6a0",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__embeddium-0.3.31%2Bmc1.20.1.jar"
           }
         },
         {
@@ -872,8 +872,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 680255,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
-            "MD5": "37626c6320c5d79c45fd701a31e30878"
+            "MD5": "37626c6320c5d79c45fd701a31e30878",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar"
           }
         },
         {
@@ -882,8 +882,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 69480,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__EnchantmentDescriptions-Forge-1.20.1-17.1.20.jar",
-            "MD5": "ecac484e638ebc34b637a4e86e72d6d5"
+            "MD5": "ecac484e638ebc34b637a4e86e72d6d5",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__EnchantmentDescriptions-Forge-1.20.1-17.1.20.jar"
           }
         },
         {
@@ -892,8 +892,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 165237,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__endlessammo-1.2.0.jar",
-            "MD5": "b10589584e8fd2c9d489831575ac91d7"
+            "MD5": "b10589584e8fd2c9d489831575ac91d7",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__endlessammo-1.2.0.jar"
           }
         },
         {
@@ -902,8 +902,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 678495,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__entity_model_features_1.20.1-forge-3.0.11.jar",
-            "MD5": "8aa104751fd0a7682fa5ef95aa078121"
+            "MD5": "8aa104751fd0a7682fa5ef95aa078121",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__entity_model_features_1.20.1-forge-3.0.11.jar"
           }
         },
         {
@@ -912,8 +912,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 927175,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__entity_texture_features_1.20.1-forge-7.0.8.jar",
-            "MD5": "eac7196e2d18716f279b79e2589974fa"
+            "MD5": "eac7196e2d18716f279b79e2589974fa",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__entity_texture_features_1.20.1-forge-7.0.8.jar"
           }
         },
         {
@@ -922,8 +922,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3065813,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__fabric-api-0.92.6+1.11.14+1.20.1.jar",
-            "MD5": "01d459284ae921e2c5480bcf0ba5eff7"
+            "MD5": "01d459284ae921e2c5480bcf0ba5eff7",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__fabric-api-0.92.6%2B1.11.14%2B1.20.1.jar"
           }
         },
         {
@@ -932,8 +932,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2978080,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__FarmersDelight-1.20.1-1.2.9.jar",
-            "MD5": "a977e171396f0e8e00ad619777d178e9"
+            "MD5": "a977e171396f0e8e00ad619777d178e9",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__FarmersDelight-1.20.1-1.2.9.jar"
           }
         },
         {
@@ -942,8 +942,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 26600,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__FastSuite-1.20.1-5.1.2.jar",
-            "MD5": "f68fcaefe393bf5b9976f7a0e981e18e"
+            "MD5": "f68fcaefe393bf5b9976f7a0e981e18e",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__FastSuite-1.20.1-5.1.2.jar"
           }
         },
         {
@@ -952,8 +952,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 123034,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__ferritecore-6.0.1-forge.jar",
-            "MD5": "82532ff59d82a407005560708323ce92"
+            "MD5": "82532ff59d82a407005560708323ce92",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__ferritecore-6.0.1-forge.jar"
           }
         },
         {
@@ -962,8 +962,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 292004,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__flib-1.20.1-0.0.15.jar",
-            "MD5": "08c5088721cb826229ec04e1e4d8f4ae"
+            "MD5": "08c5088721cb826229ec04e1e4d8f4ae",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__flib-1.20.1-0.0.15.jar"
           }
         },
         {
@@ -972,8 +972,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 226799,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__footwork-4.3.9.jar",
-            "MD5": "105701d4296e20ff6b028bb71be98255"
+            "MD5": "105701d4296e20ff6b028bb71be98255",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__footwork-4.3.9.jar"
           }
         },
         {
@@ -982,8 +982,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4251314,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__FramedBlocks-9.4.3.jar",
-            "MD5": "07fcfe9a92c1007fc253f9b0665a7c98"
+            "MD5": "07fcfe9a92c1007fc253f9b0665a7c98",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__FramedBlocks-9.4.3.jar"
           }
         },
         {
@@ -992,8 +992,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 383868,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__framework-forge-1.20.1-0.8.0.jar",
-            "MD5": "cd549a6d02154b0009b37386a2073e24"
+            "MD5": "cd549a6d02154b0009b37386a2073e24",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__framework-forge-1.20.1-0.8.0.jar"
           }
         },
         {
@@ -1002,8 +1002,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 156203,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__ftb-essentials-forge-2001.2.3.jar",
-            "MD5": "e1ca3a5d905169dca2d44b60063d42f5"
+            "MD5": "e1ca3a5d905169dca2d44b60063d42f5",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__ftb-essentials-forge-2001.2.3.jar"
           }
         },
         {
@@ -1012,8 +1012,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 780523,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__ftb-library-forge-2001.2.12.jar",
-            "MD5": "7106bd8b807d58596e28c5f17b562ea5"
+            "MD5": "7106bd8b807d58596e28c5f17b562ea5",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__ftb-library-forge-2001.2.12.jar"
           }
         },
         {
@@ -1022,18 +1022,18 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 252579,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__ftb-teams-forge-2001.3.2.jar",
-            "MD5": "6f7d541c61f4221bb75f4cf8ecb06790"
+            "MD5": "6f7d541c61f4221bb75f4cf8ecb06790",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__ftb-teams-forge-2001.3.2.jar"
           }
         },
         {
-          "id": "generated.forgemod:gamingdeco 1.8.3 forge 1.20.1.:0.0.0@jar",
+          "id": "generated.forgemod:cobbletournamentid:1.20.1__GamingDeco 1.8.3 Forge 1.20.1.@jar",
           "name": "GamingDeco 1.8.3 Forge 1.20.1.",
           "type": "ForgeMod",
           "artifact": {
             "size": 5834791,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__GamingDeco%201.8.3%20Forge%201.20.1..jar",
-            "MD5": "57d54837be1b6cc48c7a7b04bd466b9f"
+            "MD5": "57d54837be1b6cc48c7a7b04bd466b9f",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__GamingDeco%201.8.3%20Forge%201.20.1..jar"
           }
         },
         {
@@ -1042,8 +1042,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1039046,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__geckolib-forge-1.20.1-4.8.3.jar",
-            "MD5": "fef8b033fc598d0a22e2d4f9a7cb1e74"
+            "MD5": "fef8b033fc598d0a22e2d4f9a7cb1e74",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__geckolib-forge-1.20.1-4.8.3.jar"
           }
         },
         {
@@ -1052,8 +1052,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 87550,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__GlitchCore-forge-1.20.1-0.0.1.1.jar",
-            "MD5": "9db0246dabcd2ab1197a434052932529"
+            "MD5": "9db0246dabcd2ab1197a434052932529",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__GlitchCore-forge-1.20.1-0.0.1.1.jar"
           }
         },
         {
@@ -1062,8 +1062,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1598544,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__guccivuitton-1.20.1-0.2.2.jar",
-            "MD5": "f5898577514b0c0a60aa433d25015c5d"
+            "MD5": "f5898577514b0c0a60aa433d25015c5d",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__guccivuitton-1.20.1-0.2.2.jar"
           }
         },
         {
@@ -1072,8 +1072,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 235134,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__hourglass-1.20-1.2.1.1.jar",
-            "MD5": "8d8e1f17622025fad9fcb54aa30f07db"
+            "MD5": "8d8e1f17622025fad9fcb54aa30f07db",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__hourglass-1.20-1.2.1.1.jar"
           }
         },
         {
@@ -1082,8 +1082,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 134551,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__Iceberg-1.20.1-forge-1.1.25.jar",
-            "MD5": "80afa8cd12e00d6d2e01c7f55f151ca5"
+            "MD5": "80afa8cd12e00d6d2e01c7f55f151ca5",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__Iceberg-1.20.1-forge-1.1.25.jar"
           }
         },
         {
@@ -1092,8 +1092,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 361894,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__incontrol-1.20-9.4.6.jar",
-            "MD5": "f6d812486826a592b80969178a7e937c"
+            "MD5": "f6d812486826a592b80969178a7e937c",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__incontrol-1.20-9.4.6.jar"
           }
         },
         {
@@ -1102,8 +1102,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 369554,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__insanelib-1.23.4.2.jar",
-            "MD5": "c326c971bec5d483f3e1a6c399b5fb7d"
+            "MD5": "c326c971bec5d483f3e1a6c399b5fb7d",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__insanelib-1.23.4.2.jar"
           }
         },
         {
@@ -1112,8 +1112,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 552486,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__Jade-1.20.1-Forge-11.13.2.jar",
-            "MD5": "7096347c4bd67ff7c454989ecc2fd8a8"
+            "MD5": "7096347c4bd67ff7c454989ecc2fd8a8",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__Jade-1.20.1-Forge-11.13.2.jar"
           }
         },
         {
@@ -1122,8 +1122,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 91771,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__JadeAddons-1.20.1-Forge-5.5.0.jar",
-            "MD5": "d8a52f3e4b99ecb24fec16a460ead584"
+            "MD5": "d8a52f3e4b99ecb24fec16a460ead584",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__JadeAddons-1.20.1-Forge-5.5.0.jar"
           }
         },
         {
@@ -1132,8 +1132,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7160405,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__journeymap-1.20.1-5.10.3-forge.jar",
-            "MD5": "6bbd812167f06171930b562611562382"
+            "MD5": "6bbd812167f06171930b562611562382",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__journeymap-1.20.1-5.10.3-forge.jar"
           }
         },
         {
@@ -1142,8 +1142,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1677051,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__Kiwi-1.20.1-Forge-11.10.1.jar",
-            "MD5": "99791b732a36e7bafea855a1cf61ff50"
+            "MD5": "99791b732a36e7bafea855a1cf61ff50",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__Kiwi-1.20.1-Forge-11.10.1.jar"
           }
         },
         {
@@ -1152,8 +1152,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 625185,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
-            "MD5": "c50791d6e161e3933367b9b798d00b25"
+            "MD5": "c50791d6e161e3933367b9b798d00b25",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__konkrete_forge_1.8.0_MC_1.20-1.20.1.jar"
           }
         },
         {
@@ -1162,18 +1162,18 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7442998,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__kotlinforforge-4.12.0-all.jar",
-            "MD5": "ed0da4d6e6db4ee71b4ab3464d3bd5af"
+            "MD5": "ed0da4d6e6db4ee71b4ab3464d3bd5af",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__kotlinforforge-4.12.0-all.jar"
           }
         },
         {
-          "id": "generated.forgemod:lazr_s lib:1.20-1.1.1@jar",
+          "id": "generated.forgemod:cobbletournamentid:1.20.1__Lazr_s Lib-1.20-1.1.1@jar",
           "name": "Lazr_s Lib",
           "type": "ForgeMod",
           "artifact": {
             "size": 120029,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__Lazr_s%20Lib-1.20-1.1.1.jar",
-            "MD5": "472ac3ada091eccf5e8d70d193e5f128"
+            "MD5": "472ac3ada091eccf5e8d70d193e5f128",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__Lazr_s%20Lib-1.20-1.1.1.jar"
           }
         },
         {
@@ -1182,8 +1182,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 54205,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__lexiconfig-forge-1.4.18-1.jar",
-            "MD5": "97b3bd6740d5754d72410032df0e060e"
+            "MD5": "97b3bd6740d5754d72410032df0e060e",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__lexiconfig-forge-1.4.18-1.jar"
           }
         },
         {
@@ -1192,8 +1192,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 162767,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__lionfishapi-2.4-Fix.jar",
-            "MD5": "c1d7ef8103c7c3989cc7776cd44e76ae"
+            "MD5": "c1d7ef8103c7c3989cc7776cd44e76ae",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__lionfishapi-2.4-Fix.jar"
           }
         },
         {
@@ -1202,8 +1202,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 463485,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__lootr-forge-1.20-0.7.35.94.jar",
-            "MD5": "6669dd5641a64bde5bef00cfd7d2e89c"
+            "MD5": "6669dd5641a64bde5bef00cfd7d2e89c",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__lootr-forge-1.20-0.7.35.94.jar"
           }
         },
         {
@@ -1212,8 +1212,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 887220,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__lrarmor-1.20.1-0.1.4.4.jar",
-            "MD5": "ce0af698653fd37aff702252bbb087fe"
+            "MD5": "ce0af698653fd37aff702252bbb087fe",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__lrarmor-1.20.1-0.1.4.4.jar"
           }
         },
         {
@@ -1222,8 +1222,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5193935,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__lrtactical-1.20.1-0.3.0.jar",
-            "MD5": "4743f9730c05c9bb9acb280a263d3cff"
+            "MD5": "4743f9730c05c9bb9acb280a263d3cff",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__lrtactical-1.20.1-0.3.0.jar"
           }
         },
         {
@@ -1232,8 +1232,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 442733,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__marbledsarsenal-1.20.1forge-2.3.0.3.jar",
-            "MD5": "188df1a9622d1074860c71ec2e195e20"
+            "MD5": "188df1a9622d1074860c71ec2e195e20",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__marbledsarsenal-1.20.1forge-2.3.0.3.jar"
           }
         },
         {
@@ -1242,8 +1242,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 534925,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__marbledsfirstaid-1.20.1forge-1.2.0.0.jar",
-            "MD5": "c85b1bb595bc6e68f71233e823c9adef"
+            "MD5": "c85b1bb595bc6e68f71233e823c9adef",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__marbledsfirstaid-1.20.1forge-1.2.0.0.jar"
           }
         },
         {
@@ -1252,8 +1252,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 33775172,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__maxstuff-1.8.1.jar",
-            "MD5": "b2b752848e5e12fc3959617fe7c9be6e"
+            "MD5": "b2b752848e5e12fc3959617fe7c9be6e",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__maxstuff-1.8.1.jar"
           }
         },
         {
@@ -1262,8 +1262,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 121205,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__mcore-1.20.1-1.0.3.0.jar",
-            "MD5": "7a2d14da31ae3d18b99025815f917351"
+            "MD5": "7a2d14da31ae3d18b99025815f917351",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__mcore-1.20.1-1.0.3.0.jar"
           }
         },
         {
@@ -1272,8 +1272,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 37178,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
-            "MD5": "368d526bf7cb7f8ff228df37c6de7c45"
+            "MD5": "368d526bf7cb7f8ff228df37c6de7c45",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__melody_forge_1.0.3_MC_1.20.1-1.20.4.jar"
           }
         },
         {
@@ -1282,98 +1282,98 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 174514,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__MineTraps-1.20.2-(v.2.3.0a).jar",
-            "MD5": "e17653a08f335e428eda3861685000ea"
+            "MD5": "e17653a08f335e428eda3861685000ea",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__MineTraps-1.20.2-(v.2.3.0a).jar"
           }
         },
         {
-          "id": "generated.forgemod:moadecor art 1.20.1:0.0.0@jar",
+          "id": "generated.forgemod:cobbletournamentid:1.20.1__MOAdecor ART 1.20.1@jar",
           "name": "MOAdecor ART 1.20.1",
           "type": "ForgeMod",
           "artifact": {
             "size": 1067543,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__MOAdecor%20ART%201.20.1.jar",
-            "MD5": "02e55e0d59ed77c11f0f1d8191fec4a3"
+            "MD5": "02e55e0d59ed77c11f0f1d8191fec4a3",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__MOAdecor%20ART%201.20.1.jar"
           }
         },
         {
-          "id": "generated.forgemod:moadecor bath 1.20.1:0.0.0@jar",
+          "id": "generated.forgemod:cobbletournamentid:1.20.1__MOAdecor BATH 1.20.1@jar",
           "name": "MOAdecor BATH 1.20.1",
           "type": "ForgeMod",
           "artifact": {
             "size": 1196202,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__MOAdecor%20BATH%201.20.1.jar",
-            "MD5": "eea271a77012418a7d9235e8c3df4bdb"
+            "MD5": "eea271a77012418a7d9235e8c3df4bdb",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__MOAdecor%20BATH%201.20.1.jar"
           }
         },
         {
-          "id": "generated.forgemod:moadecor cookery 1.20.2:0.0.0@jar",
+          "id": "generated.forgemod:cobbletournamentid:1.20.1__MOAdecor COOKERY 1.20.2@jar",
           "name": "MOAdecor COOKERY 1.20.2",
           "type": "ForgeMod",
           "artifact": {
             "size": 1537747,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__MOAdecor%20COOKERY%201.20.2.jar",
-            "MD5": "d955c35791351805e13b1d9dd57a8a14"
+            "MD5": "d955c35791351805e13b1d9dd57a8a14",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__MOAdecor%20COOKERY%201.20.2.jar"
           }
         },
         {
-          "id": "generated.forgemod:moadecor electronics 1.20.1.a:0.0.0@jar",
+          "id": "generated.forgemod:cobbletournamentid:1.20.1__MOAdecor ELECTRONICS 1.20.1.A@jar",
           "name": "MOAdecor ELECTRONICS 1.20.1.A",
           "type": "ForgeMod",
           "artifact": {
             "size": 1140709,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__MOAdecor%20ELECTRONICS%201.20.1.A.jar",
-            "MD5": "04dfa4a865d0119f7680277827c61c1d"
+            "MD5": "04dfa4a865d0119f7680277827c61c1d",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__MOAdecor%20ELECTRONICS%201.20.1.A.jar"
           }
         },
         {
-          "id": "generated.forgemod:moadecor garden 1.20.1:0.0.0@jar",
+          "id": "generated.forgemod:cobbletournamentid:1.20.1__MOAdecor GARDEN 1.20.1@jar",
           "name": "MOAdecor GARDEN 1.20.1",
           "type": "ForgeMod",
           "artifact": {
             "size": 1206143,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__MOAdecor%20GARDEN%201.20.1.jar",
-            "MD5": "1c3df5570b837bebee7c9ccc473acc0b"
+            "MD5": "1c3df5570b837bebee7c9ccc473acc0b",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__MOAdecor%20GARDEN%201.20.1.jar"
           }
         },
         {
-          "id": "generated.forgemod:moadecor holidays 1.20.1:0.0.0@jar",
+          "id": "generated.forgemod:cobbletournamentid:1.20.1__MOAdecor HOLIDAYS 1.20.1@jar",
           "name": "MOAdecor HOLIDAYS 1.20.1",
           "type": "ForgeMod",
           "artifact": {
             "size": 1189873,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__MOAdecor%20HOLIDAYS%201.20.1.jar",
-            "MD5": "087ca00180f21af0a1d356934c15eb28"
+            "MD5": "087ca00180f21af0a1d356934c15eb28",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__MOAdecor%20HOLIDAYS%201.20.1.jar"
           }
         },
         {
-          "id": "generated.forgemod:moadecor lights 1.20.1:0.0.0@jar",
+          "id": "generated.forgemod:cobbletournamentid:1.20.1__MOAdecor LIGHTS 1.20.1@jar",
           "name": "MOAdecor LIGHTS 1.20.1",
           "type": "ForgeMod",
           "artifact": {
             "size": 1026120,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__MOAdecor%20LIGHTS%201.20.1.jar",
-            "MD5": "7323d2942947d3aad193ae0147061c10"
+            "MD5": "7323d2942947d3aad193ae0147061c10",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__MOAdecor%20LIGHTS%201.20.1.jar"
           }
         },
         {
-          "id": "generated.forgemod:moadecor science 1.20.1:0.0.0@jar",
+          "id": "generated.forgemod:cobbletournamentid:1.20.1__MOAdecor SCIENCE 1.20.1@jar",
           "name": "MOAdecor SCIENCE 1.20.1",
           "type": "ForgeMod",
           "artifact": {
             "size": 1040771,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__MOAdecor%20SCIENCE%201.20.1.jar",
-            "MD5": "feba47b5c0ea6a3191ad11add5310985"
+            "MD5": "feba47b5c0ea6a3191ad11add5310985",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__MOAdecor%20SCIENCE%201.20.1.jar"
           }
         },
         {
-          "id": "generated.forgemod:moadecor toys 1.20.1:0.0.0@jar",
+          "id": "generated.forgemod:cobbletournamentid:1.20.1__MOAdecor TOYS 1.20.1@jar",
           "name": "MOAdecor TOYS 1.20.1",
           "type": "ForgeMod",
           "artifact": {
             "size": 1119976,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__MOAdecor%20TOYS%201.20.1.jar",
-            "MD5": "25d091a40060a99db0d070cf876d2fc2"
+            "MD5": "25d091a40060a99db0d070cf876d2fc2",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__MOAdecor%20TOYS%201.20.1.jar"
           }
         },
         {
@@ -1382,8 +1382,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4292380,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__modernlife-1.20.1-1.77.jar",
-            "MD5": "ec42f812741bf0f167dbce6f777e30ce"
+            "MD5": "ec42f812741bf0f167dbce6f777e30ce",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__modernlife-1.20.1-1.77.jar"
           }
         },
         {
@@ -1392,8 +1392,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 76237,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__MouseTweaks-forge-mc1.20.1-2.25.1.jar",
-            "MD5": "bb5b4bce90a7f69eb58a455cb24cef99"
+            "MD5": "bb5b4bce90a7f69eb58a455cb24cef99",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__MouseTweaks-forge-mc1.20.1-2.25.1.jar"
           }
         },
         {
@@ -1402,8 +1402,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 287393,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__MRU-1.0.4+1.20.1+forge.jar",
-            "MD5": "8a788544a07768463d2dd4dd13a94ef8"
+            "MD5": "8a788544a07768463d2dd4dd13a94ef8",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__MRU-1.0.4%2B1.20.1%2Bforge.jar"
           }
         },
         {
@@ -1412,8 +1412,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 424035,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__OctoLib-FORGE-0.5.0.1+1.20.1.jar",
-            "MD5": "12d02f6ba9136b968af6e46c8cab2ee4"
+            "MD5": "12d02f6ba9136b968af6e46c8cab2ee4",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__OctoLib-FORGE-0.5.0.1%2B1.20.1.jar"
           }
         },
         {
@@ -1422,8 +1422,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2851119,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__oculus-mc1.20.1-1.8.0.jar",
-            "MD5": "6391d81d9115c24a4792a6b57225111f"
+            "MD5": "6391d81d9115c24a4792a6b57225111f",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__oculus-mc1.20.1-1.8.0.jar"
           }
         },
         {
@@ -1432,8 +1432,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 188673,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__packetfixer-3.3.1-1.18-1.20.4-merged.jar",
-            "MD5": "dc9284da843d8174c228a17b76c35332"
+            "MD5": "dc9284da843d8174c228a17b76c35332",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__packetfixer-3.3.1-1.18-1.20.4-merged.jar"
           }
         },
         {
@@ -1442,8 +1442,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 589055,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__Paraglider-forge-20.1.3.jar",
-            "MD5": "f8a1eb35ea09eb979d5791ff65656965"
+            "MD5": "f8a1eb35ea09eb979d5791ff65656965",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__Paraglider-forge-20.1.3.jar"
           }
         },
         {
@@ -1452,8 +1452,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 642711,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__Patchouli-1.20.1-84.1-FORGE.jar",
-            "MD5": "ac4c15d5829585f63b85bdee37559fd5"
+            "MD5": "ac4c15d5829585f63b85bdee37559fd5",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__Patchouli-1.20.1-84.1-FORGE.jar"
           }
         },
         {
@@ -1462,8 +1462,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 282474,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__Placebo-1.20.1-8.6.3.jar",
-            "MD5": "b93a131374849e98a8d71c93c59cd16b"
+            "MD5": "b93a131374849e98a8d71c93c59cd16b",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__Placebo-1.20.1-8.6.3.jar"
           }
         },
         {
@@ -1472,8 +1472,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 181437,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__player-animation-lib-forge-1.0.2-rc1+1.20.jar",
-            "MD5": "4155f84640d2d48191a45e0701fd019d"
+            "MD5": "4155f84640d2d48191a45e0701fd019d",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__player-animation-lib-forge-1.0.2-rc1%2B1.20.jar"
           }
         },
         {
@@ -1482,8 +1482,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 178633,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__playingcards-2.0.1.jar",
-            "MD5": "323a62e1245e8b7b3a0c45e9cc991a3e"
+            "MD5": "323a62e1245e8b7b3a0c45e9cc991a3e",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__playingcards-2.0.1.jar"
           }
         },
         {
@@ -1492,8 +1492,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 299601,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__polymorph-forge-0.49.10+1.20.1.jar",
-            "MD5": "5b67938e4392a8332f277fd23883e884"
+            "MD5": "5b67938e4392a8332f277fd23883e884",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__polymorph-forge-0.49.10%2B1.20.1.jar"
           }
         },
         {
@@ -1502,8 +1502,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 52205,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__Prism-1.20.1-forge-1.0.5.jar",
-            "MD5": "9e310edef413e829334b3107b87e9f73"
+            "MD5": "9e310edef413e829334b3107b87e9f73",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__Prism-1.20.1-forge-1.0.5.jar"
           }
         },
         {
@@ -1512,8 +1512,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4265328,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__PTS-Deco-4.0.4.5-Forge1.20.1.jar",
-            "MD5": "ab5b1d8774bc607c6d4fb9916c57920f"
+            "MD5": "ab5b1d8774bc607c6d4fb9916c57920f",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__PTS-Deco-4.0.4.5-Forge1.20.1.jar"
           }
         },
         {
@@ -1522,8 +1522,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 136923,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__resourcefulconfig-forge-1.20.1-2.1.3.jar",
-            "MD5": "b06374943739044c685024cda337f742"
+            "MD5": "b06374943739044c685024cda337f742",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__resourcefulconfig-forge-1.20.1-2.1.3.jar"
           }
         },
         {
@@ -1532,8 +1532,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 432753,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__resourcefullib-forge-1.20.1-2.1.29.jar",
-            "MD5": "ccc640a0fd53f686f30f28dff06890af"
+            "MD5": "ccc640a0fd53f686f30f28dff06890af",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__resourcefullib-forge-1.20.1-2.1.29.jar"
           }
         },
         {
@@ -1542,8 +1542,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 137631,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__Satako-7.0.33-1.20.1.jar",
-            "MD5": "6e7171e223f571891b8799e269b343ba"
+            "MD5": "6e7171e223f571891b8799e269b343ba",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__Satako-7.0.33-1.20.1.jar"
           }
         },
         {
@@ -1552,8 +1552,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 692365,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__scholar-1.20.1-1.1.9-forge.jar",
-            "MD5": "356cd3808700ebca17e0f4f34cf9e95c"
+            "MD5": "356cd3808700ebca17e0f4f34cf9e95c",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__scholar-1.20.1-1.1.9-forge.jar"
           }
         },
         {
@@ -1562,8 +1562,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 77732,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__Searchables-forge-1.20.1-1.0.3.jar",
-            "MD5": "e918549fa3188cc0fa42ef75f2ce4bda"
+            "MD5": "e918549fa3188cc0fa42ef75f2ce4bda",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__Searchables-forge-1.20.1-1.0.3.jar"
           }
         },
         {
@@ -1572,8 +1572,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 555625,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__simplylight-1.20.1-1.4.6-build.50.jar",
-            "MD5": "63b13cce26c8113adf47b513e8ae86f6"
+            "MD5": "63b13cce26c8113adf47b513e8ae86f6",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__simplylight-1.20.1-1.4.6-build.50.jar"
           }
         },
         {
@@ -1582,8 +1582,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7315434,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__Skarts-Decorations-0.3.1-(1.20.1).jar",
-            "MD5": "6bbe676d6ce7b20d2c46373ee1948453"
+            "MD5": "6bbe676d6ce7b20d2c46373ee1948453",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__Skarts-Decorations-0.3.1-(1.20.1).jar"
           }
         },
         {
@@ -1592,8 +1592,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 362338,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__SmartBrainLib-forge-1.20.1-1.15.jar",
-            "MD5": "ce60a0d532c1b811df21b868e436a9e5"
+            "MD5": "ce60a0d532c1b811df21b868e436a9e5",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__SmartBrainLib-forge-1.20.1-1.15.jar"
           }
         },
         {
@@ -1602,8 +1602,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 14249,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__smoothchunk-1.20.1-4.1.jar",
-            "MD5": "7703c966fecad477f664546de2d8f5ef"
+            "MD5": "7703c966fecad477f664546de2d8f5ef",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__smoothchunk-1.20.1-4.1.jar"
           }
         },
         {
@@ -1612,8 +1612,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 983302,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__sophisticatedbackpacks-1.20.1-3.24.20.1500.jar",
-            "MD5": "18c65452873febef10afcd7675de7437"
+            "MD5": "18c65452873febef10afcd7675de7437",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__sophisticatedbackpacks-1.20.1-3.24.20.1500.jar"
           }
         },
         {
@@ -1622,18 +1622,18 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1411890,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__sophisticatedcore-1.20.1-1.3.1.1460.jar",
-            "MD5": "e5f5b6a3792796f65df6456d473c2567"
+            "MD5": "e5f5b6a3792796f65df6456d473c2567",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__sophisticatedcore-1.20.1-1.3.1.1460.jar"
           }
         },
         {
-          "id": "generated.forgemod:stellar view:1.20.1-0.5.2-Forge@jar",
+          "id": "generated.forgemod:cobbletournamentid:1.20.1__Stellar View-1.20.1-0.5.2-Forge@jar",
           "name": "Stellar View",
           "type": "ForgeMod",
           "artifact": {
             "size": 571676,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__Stellar%20View-1.20.1-0.5.2-Forge.jar.disabled",
-            "MD5": "64fbef33d3a00c6751ced1efd19641fa"
+            "MD5": "64fbef33d3a00c6751ced1efd19641fa",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__Stellar%20View-1.20.1-0.5.2-Forge.jar.disabled"
           }
         },
         {
@@ -1642,8 +1642,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 966028,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__structure_gel-1.20.1-2.16.2.jar",
-            "MD5": "1d7ae0a40199f66f46010bf79844f083"
+            "MD5": "1d7ae0a40199f66f46010bf79844f083",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__structure_gel-1.20.1-2.16.2.jar"
           }
         },
         {
@@ -1652,8 +1652,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 206584,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__supermartijn642configlib-1.1.8-forge-mc1.20.jar",
-            "MD5": "19e6eccb59e0d446c10608e98260d69d"
+            "MD5": "19e6eccb59e0d446c10608e98260d69d",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__supermartijn642configlib-1.1.8-forge-mc1.20.jar"
           }
         },
         {
@@ -1662,8 +1662,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2136620,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__survival_instinct-1.0.2-forge-1.20.1.jar",
-            "MD5": "6c723dcca9325697ea8db7a4c55f1d7a"
+            "MD5": "6c723dcca9325697ea8db7a4c55f1d7a",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__survival_instinct-1.0.2-forge-1.20.1.jar"
           }
         },
         {
@@ -1672,8 +1672,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 52425650,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__tacz-1.20.1-1.1.7-hotfix.jar",
-            "MD5": "b09113e959ec259e9385c29408597f11"
+            "MD5": "b09113e959ec259e9385c29408597f11",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__tacz-1.20.1-1.1.7-hotfix.jar"
           }
         },
         {
@@ -1682,8 +1682,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 116234,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__taczaddon-1.20.1-1.1.6.jar",
-            "MD5": "aee7e51d6db4d3a74d33ff3d425a3dbc"
+            "MD5": "aee7e51d6db4d3a74d33ff3d425a3dbc",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__taczaddon-1.20.1-1.1.6.jar"
           }
         },
         {
@@ -1692,8 +1692,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 107532,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__TerraBlender-forge-1.20.1-3.0.1.10.jar",
-            "MD5": "5b308e9d8f5aae95636d447b67423246"
+            "MD5": "5b308e9d8f5aae95636d447b67423246",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__TerraBlender-forge-1.20.1-3.0.1.10.jar"
           }
         },
         {
@@ -1702,8 +1702,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 117939,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__trashslot-forge-1.20.1-15.1.3.jar",
-            "MD5": "54a54a9f74539ac45b4a99320e868d2c"
+            "MD5": "54a54a9f74539ac45b4a99320e868d2c",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__trashslot-forge-1.20.1-15.1.3.jar"
           }
         },
         {
@@ -1712,8 +1712,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 255481,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__waterframes-FORGE-mc1.20.1-v2.1.22.jar",
-            "MD5": "67245a59dfbc0a909c05b3000f0dfc56"
+            "MD5": "67245a59dfbc0a909c05b3000f0dfc56",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__waterframes-FORGE-mc1.20.1-v2.1.22.jar"
           }
         },
         {
@@ -1722,8 +1722,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3830072,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__watermedia_youtube_plugin-2.1.2.jar",
-            "MD5": "50d70e5b053c1d2f36d5e6534a4da7d5"
+            "MD5": "50d70e5b053c1d2f36d5e6534a4da7d5",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__watermedia_youtube_plugin-2.1.2.jar"
           }
         },
         {
@@ -1732,8 +1732,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 37046674,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__watermedia-2.1.37.jar",
-            "MD5": "3ead094a58d22aa2b8052680bd9b92aa"
+            "MD5": "3ead094a58d22aa2b8052680bd9b92aa",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__watermedia-2.1.37.jar"
           }
         },
         {
@@ -1742,8 +1742,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 82079,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__watervision-FG-mc1.20.1-v0.1.0-alpha.jar",
-            "MD5": "babc34c9ce42b2be3f9ea77d6c40d116"
+            "MD5": "babc34c9ce42b2be3f9ea77d6c40d116",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__watervision-FG-mc1.20.1-v0.1.0-alpha.jar"
           }
         },
         {
@@ -1752,8 +1752,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 168681,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__WorldEditCUI-1.20+01.jar",
-            "MD5": "9d267abe18711942b67122f699c23c0d"
+            "MD5": "9d267abe18711942b67122f699c23c0d",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__WorldEditCUI-1.20%2B01.jar"
           }
         },
         {
@@ -1762,18 +1762,18 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5825402,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__worldedit-mod-7.2.15.jar",
-            "MD5": "ff7c0ebd8f349678432eb9aa39060d30"
+            "MD5": "ff7c0ebd8f349678432eb9aa39060d30",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__worldedit-mod-7.2.15.jar"
           }
         },
         {
-          "id": "generated.forgemod:xekr's decoration:1.20.1-Forge-0.9.6@jar",
+          "id": "generated.forgemod:cobbletournamentid:1.20.1__XeKr's Decoration-1.20.1-Forge-0.9.6@jar",
           "name": "XeKr's Decoration",
           "type": "ForgeMod",
           "artifact": {
             "size": 2337020,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__XeKr's%20Decoration-1.20.1-Forge-0.9.6.jar",
-            "MD5": "6f3441f64498b81466341beaa704764c"
+            "MD5": "6f3441f64498b81466341beaa704764c",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__XeKr's%20Decoration-1.20.1-Forge-0.9.6.jar"
           }
         },
         {
@@ -1782,8 +1782,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 719255,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__yawp-1.20.1-forge-0.6.3-beta1.jar",
-            "MD5": "257932fce47a913f2adecdd7855fc6cb"
+            "MD5": "257932fce47a913f2adecdd7855fc6cb",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__yawp-1.20.1-forge-0.6.3-beta1.jar"
           }
         },
         {
@@ -1792,8 +1792,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1105891,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
-            "MD5": "64cb37246a72242ee364f8837944f245"
+            "MD5": "64cb37246a72242ee364f8837944f245",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__yet_another_config_lib_v3-3.6.6%2B1.20.1-forge.jar"
           }
         },
         {
@@ -1802,8 +1802,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1006518,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__Zeta-1.0-31.jar",
-            "MD5": "202eb7984ddbcbda7f18bda41240ed56"
+            "MD5": "202eb7984ddbcbda7f18bda41240ed56",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__Zeta-1.0-31.jar"
           }
         },
         {
@@ -1812,8 +1812,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1187126,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__alltheleaks-1.1.1+1.20.1-forge.jar",
-            "MD5": "dafb84df7d94f7da2f8730c556bc0fa6"
+            "MD5": "dafb84df7d94f7da2f8730c556bc0fa6",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__alltheleaks-1.1.1%2B1.20.1-forge.jar"
           }
         },
         {
@@ -1822,8 +1822,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 15906,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__almanac-1.20.x-forge-1.0.2.jar",
-            "MD5": "54b0f920ebcecaf47c8402daaf019914"
+            "MD5": "54b0f920ebcecaf47c8402daaf019914",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__almanac-1.20.x-forge-1.0.2.jar"
           }
         },
         {
@@ -1832,8 +1832,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 9346043,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__apocalypsenow-3.0.5-forge-1.20.1.jar",
-            "MD5": "730713dd27f07e203a90f5cb89ce4b8f"
+            "MD5": "730713dd27f07e203a90f5cb89ce4b8f",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__apocalypsenow-3.0.5-forge-1.20.1.jar"
           }
         },
         {
@@ -1842,8 +1842,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 47428,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__appleskin-forge-mc1.20.1-2.5.1.jar",
-            "MD5": "ea3ce6dada1d959c05402a545339efce"
+            "MD5": "ea3ce6dada1d959c05402a545339efce",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__appleskin-forge-mc1.20.1-2.5.1.jar"
           }
         },
         {
@@ -1852,8 +1852,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 580602,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__architectury-9.2.14-forge.jar",
-            "MD5": "400db47625f06b7bb6dad17dd595d3d3"
+            "MD5": "400db47625f06b7bb6dad17dd595d3d3",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__architectury-9.2.14-forge.jar"
           }
         },
         {
@@ -1862,8 +1862,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 850457,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__artifacts-forge-9.5.16.jar",
-            "MD5": "68140885058049e7b2dadff5970052ae"
+            "MD5": "68140885058049e7b2dadff5970052ae",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__artifacts-forge-9.5.16.jar"
           }
         },
         {
@@ -1872,18 +1872,18 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 91808,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__athena-forge-1.20.1-3.1.2.jar",
-            "MD5": "26e386202ffff0e8c6057d8d8414296c"
+            "MD5": "26e386202ffff0e8c6057d8d8414296c",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__athena-forge-1.20.1-3.1.2.jar"
           }
         },
         {
-          "id": "generated.forgemod:atlas lib:1.20.1-1.1.12@jar",
+          "id": "generated.forgemod:cobbletournamentid:1.20.1__Atlas Lib-1.20.1-1.1.12@jar",
           "name": "Atlas Lib",
           "type": "ForgeMod",
           "artifact": {
             "size": 124436,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__Atlas%20Lib-1.20.1-1.1.12.jar",
-            "MD5": "d91636b6e61e99843839310d3fda3e14"
+            "MD5": "d91636b6e61e99843839310d3fda3e14",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__Atlas%20Lib-1.20.1-1.1.12.jar"
           }
         },
         {
@@ -1892,8 +1892,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 64264,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__attributizer-3.1.jar",
-            "MD5": "5bf4a99dc4d4eeb31fe30858ccb68bbc"
+            "MD5": "5bf4a99dc4d4eeb31fe30858ccb68bbc",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__attributizer-3.1.jar"
           }
         },
         {
@@ -1902,8 +1902,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 10425,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__BadMobs-1.20.1-19.0.4.jar",
-            "MD5": "eadf2ec87f6b5181ad07968cd6752f5b"
+            "MD5": "eadf2ec87f6b5181ad07968cd6752f5b",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__BadMobs-1.20.1-19.0.4.jar"
           }
         },
         {
@@ -1912,8 +1912,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 31898,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__baguettelib-1.20.1-Forge-1.1.6.jar",
-            "MD5": "d6a729f7f18eb2d761844e4e666539a5"
+            "MD5": "d6a729f7f18eb2d761844e4e666539a5",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__baguettelib-1.20.1-Forge-1.1.6.jar"
           }
         },
         {
@@ -1922,8 +1922,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 591397,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__balm-forge-1.20.1-7.3.38-all.jar",
-            "MD5": "bc67944988be50809589b09326c08c43"
+            "MD5": "bc67944988be50809589b09326c08c43",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__balm-forge-1.20.1-7.3.38-all.jar"
           }
         }
       ]
