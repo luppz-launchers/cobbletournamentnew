@@ -1676,18 +1676,6 @@
           }
         },
         {
-          "id": "generated.forgemod:waterframes:FORGE-mc1.20.1-v2.1.22@jar",
-          "name": "waterframes-FORGE-mc1.20.1-v2.1.22.jar",
-          "type": "ForgeMod",
-          "required": {
-            "value": false
-          },
-          "artifact": {
-            "size": 0,
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/waterframes-FORGE-mc1.20.1-v2.1.22.jar"
-          }
-        },
-        {
           "id": "generated.forgemod:watermedia_youtube_plugin:2.1.2@jar",
           "name": "watermedia_youtube_plugin-2.1.2.jar",
           "type": "ForgeMod",
