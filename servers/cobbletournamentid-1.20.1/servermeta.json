@@ -1,5 +1,5 @@
 {
-  "$schema": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.3/schemas/ServerMetaSchema.schema.json",
+  "$schema": "http://localhost:8080/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
     "name": "Cobble Tournament",
