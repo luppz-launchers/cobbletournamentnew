@@ -427,16 +427,6 @@
           "classpath": true
         },
         {
-          "id": "generated.forgemod:bbs:1.7.7-1.20.1@jar",
-          "name": "bbs",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 5986273,
-            "MD5": "d5b758ee46fd73af53d96ebd83f80c41",
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__bbs-1.7.7-1.20.1.jar.disabled"
-          }
-        },
-        {
           "id": "generated.forgemod:bbs:cml-edition-1.8.1-1.20.1@jar",
           "name": "bbs",
           "type": "ForgeMod",
@@ -1624,16 +1614,6 @@
             "size": 1411890,
             "MD5": "e5f5b6a3792796f65df6456d473c2567",
             "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__sophisticatedcore-1.20.1-1.3.1.1460.jar"
-          }
-        },
-        {
-          "id": "generated.forgemod:cobbletournamentid:1.20.1__Stellar View-1.20.1-0.5.2-Forge@jar",
-          "name": "Stellar View",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 571676,
-            "MD5": "64fbef33d3a00c6751ced1efd19641fa",
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__Stellar%20View-1.20.1-0.5.2-Forge.jar.disabled"
           }
         },
         {
