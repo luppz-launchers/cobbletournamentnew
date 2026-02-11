@@ -428,7 +428,7 @@
           "classpath": true
         },
         {
-          "id": "alltheleaks-1.1.1+1.20.1-forge.jar",
+          "id": "generated.forgemod:alltheleaks:1.1.1+1.20.1-forge@jar",
           "name": "alltheleaks-1.1.1+1.20.1-forge.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -437,7 +437,7 @@
           }
         },
         {
-          "id": "almanac-1.20.x-forge-1.0.2.jar",
+          "id": "generated.forgemod:almanac:1.20.x-forge-1.0.2@jar",
           "name": "almanac-1.20.x-forge-1.0.2.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -446,7 +446,7 @@
           }
         },
         {
-          "id": "apocalypsenow-3.0.5-forge-1.20.1.jar",
+          "id": "generated.forgemod:apocalypsenow:3.0.5-forge-1.20.1@jar",
           "name": "apocalypsenow-3.0.5-forge-1.20.1.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -455,7 +455,7 @@
           }
         },
         {
-          "id": "appleskin-forge-mc1.20.1-2.5.1.jar",
+          "id": "generated.forgemod:appleskin:forge-mc1.20.1-2.5.1@jar",
           "name": "appleskin-forge-mc1.20.1-2.5.1.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -464,7 +464,7 @@
           }
         },
         {
-          "id": "architectury-9.2.14-forge.jar",
+          "id": "generated.forgemod:architectury:9.2.14-forge@jar",
           "name": "architectury-9.2.14-forge.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -473,7 +473,7 @@
           }
         },
         {
-          "id": "artifacts-forge-9.5.16.jar",
+          "id": "generated.forgemod:artifacts:forge-9.5.16@jar",
           "name": "artifacts-forge-9.5.16.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -482,7 +482,7 @@
           }
         },
         {
-          "id": "athena-forge-1.20.1-3.1.2.jar",
+          "id": "generated.forgemod:athena:forge-1.20.1-3.1.2@jar",
           "name": "athena-forge-1.20.1-3.1.2.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -491,7 +491,7 @@
           }
         },
         {
-          "id": "Atlas Lib-1.20.1-1.1.12.jar",
+          "id": "generated.forgemod:atlas lib:1.20.1-1.1.12@jar",
           "name": "Atlas Lib-1.20.1-1.1.12.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -500,7 +500,7 @@
           }
         },
         {
-          "id": "attributizer-3.1.jar",
+          "id": "generated.forgemod:attributizer:3.1@jar",
           "name": "attributizer-3.1.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -509,7 +509,7 @@
           }
         },
         {
-          "id": "BadMobs-1.20.1-19.0.4.jar",
+          "id": "generated.forgemod:badmobs:1.20.1-19.0.4@jar",
           "name": "BadMobs-1.20.1-19.0.4.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -518,7 +518,7 @@
           }
         },
         {
-          "id": "baguettelib-1.20.1-Forge-1.1.6.jar",
+          "id": "generated.forgemod:baguettelib:1.20.1-Forge-1.1.6@jar",
           "name": "baguettelib-1.20.1-Forge-1.1.6.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -527,7 +527,7 @@
           }
         },
         {
-          "id": "balm-forge-1.20.1-7.3.38-all.jar",
+          "id": "generated.forgemod:balm:forge-1.20.1-7.3.38-all@jar",
           "name": "balm-forge-1.20.1-7.3.38-all.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -536,7 +536,7 @@
           }
         },
         {
-          "id": "bbs-cml-edition-1.8.1-1.20.1.jar",
+          "id": "generated.forgemod:bbs:cml-edition-1.8.1-1.20.1@jar",
           "name": "bbs-cml-edition-1.8.1-1.20.1.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -545,7 +545,7 @@
           }
         },
         {
-          "id": "bendy-lib-forge-4.0.0.jar",
+          "id": "generated.forgemod:bendy:lib-forge-4.0.0@jar",
           "name": "bendy-lib-forge-4.0.0.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -554,7 +554,7 @@
           }
         },
         {
-          "id": "Better Mob Food - Version 1.0.1 (Beta).jar",
+          "id": "generated.forgemod:better mob food : Version 1.0.1 (Beta)@jar",
           "name": "Better Mob Food - Version 1.0.1 (Beta).jar",
           "type": "ForgeMod",
           "artifact": {
@@ -563,7 +563,7 @@
           }
         },
         {
-          "id": "bettercombat-forge-1.9.0+1.20.1.jar",
+          "id": "generated.forgemod:bettercombat:forge-1.9.0+1.20.1@jar",
           "name": "bettercombat-forge-1.9.0+1.20.1.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -572,7 +572,7 @@
           }
         },
         {
-          "id": "BiomesOPlenty-1.20.1-18.0.0.592.jar",
+          "id": "generated.forgemod:biomesoplenty:1.20.1-18.0.0.592@jar",
           "name": "BiomesOPlenty-1.20.1-18.0.0.592.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -581,7 +581,7 @@
           }
         },
         {
-          "id": "Bookshelf-Forge-1.20.1-20.2.13.jar",
+          "id": "generated.forgemod:bookshelf:Forge-1.20.1-20.2.13@jar",
           "name": "Bookshelf-Forge-1.20.1-20.2.13.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -590,7 +590,7 @@
           }
         },
         {
-          "id": "braziliandelight-forge-2.0.3+1.20.1.jar",
+          "id": "generated.forgemod:braziliandelight:forge-2.0.3+1.20.1@jar",
           "name": "braziliandelight-forge-2.0.3+1.20.1.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -599,7 +599,7 @@
           }
         },
         {
-          "id": "bulletarmorenchant-1.0-1.20.1 chineseadd.jar",
+          "id": "generated.forgemod:bulletarmorenchant:1.0-1.20.1 chineseadd@jar",
           "name": "bulletarmorenchant-1.0-1.20.1 chineseadd.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -608,7 +608,7 @@
           }
         },
         {
-          "id": "butchercraft-2.4.1.jar",
+          "id": "generated.forgemod:butchercraft:2.4.1@jar",
           "name": "butchercraft-2.4.1.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -617,7 +617,7 @@
           }
         },
         {
-          "id": "caelus-forge-3.2.0+1.20.1.jar",
+          "id": "generated.forgemod:caelus:forge-3.2.0+1.20.1@jar",
           "name": "caelus-forge-3.2.0+1.20.1.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -626,7 +626,7 @@
           }
         },
         {
-          "id": "carryon-forge-1.20.1-2.1.2.7.jar",
+          "id": "generated.forgemod:carryon:forge-1.20.1-2.1.2.7@jar",
           "name": "carryon-forge-1.20.1-2.1.2.7.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -635,7 +635,7 @@
           }
         },
         {
-          "id": "cfm-forge-1.20.1-7.0.0-pre36.jar",
+          "id": "generated.forgemod:cfm:forge-1.20.1-7.0.0-pre36@jar",
           "name": "cfm-forge-1.20.1-7.0.0-pre36.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -644,7 +644,7 @@
           }
         },
         {
-          "id": "chipped-forge-1.20.1-3.0.7.jar",
+          "id": "generated.forgemod:chipped:forge-1.20.1-3.0.7@jar",
           "name": "chipped-forge-1.20.1-3.0.7.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -653,7 +653,7 @@
           }
         },
         {
-          "id": "chisel_chipped_integration-v1.1.6-1.20.1.jar",
+          "id": "generated.forgemod:chisel_chipped_integration:v1.1.6-1.20.1@jar",
           "name": "chisel_chipped_integration-v1.1.6-1.20.1.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -662,16 +662,19 @@
           }
         },
         {
-          "id": "chloride-FORGE-mc1.20.1-v1.7.5.jar",
+          "id": "generated.forgemod:chloride:FORGE-mc1.20.1-v1.7.5@jar",
           "name": "chloride-FORGE-mc1.20.1-v1.7.5.jar",
           "type": "ForgeMod",
+          "required": {
+            "value": false
+          },
           "artifact": {
             "size": 0,
             "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/chloride-FORGE-mc1.20.1-v1.7.5.jar"
           }
         },
         {
-          "id": "Chunky-1.3.146.jar",
+          "id": "generated.forgemod:chunky:1.3.146@jar",
           "name": "Chunky-1.3.146.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -680,7 +683,7 @@
           }
         },
         {
-          "id": "citadel-2.6.3-1.20.1.jar",
+          "id": "generated.forgemod:citadel:2.6.3-1.20.1@jar",
           "name": "citadel-2.6.3-1.20.1.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -689,7 +692,7 @@
           }
         },
         {
-          "id": "clockworklib-1.20.1-1.0.0.jar",
+          "id": "generated.forgemod:clockworklib:1.20.1-1.0.0@jar",
           "name": "clockworklib-1.20.1-1.0.0.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -698,7 +701,7 @@
           }
         },
         {
-          "id": "cloth-config-11.1.136-forge.jar",
+          "id": "generated.forgemod:cloth:config-11.1.136-forge@jar",
           "name": "cloth-config-11.1.136-forge.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -707,7 +710,7 @@
           }
         },
         {
-          "id": "Clumps-forge-1.20.1-12.0.0.4.jar",
+          "id": "generated.forgemod:clumps:forge-1.20.1-12.0.0.4@jar",
           "name": "Clumps-forge-1.20.1-12.0.0.4.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -716,7 +719,7 @@
           }
         },
         {
-          "id": "collective-1.20.1-8.13.jar",
+          "id": "generated.forgemod:collective:1.20.1-8.13@jar",
           "name": "collective-1.20.1-8.13.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -725,7 +728,7 @@
           }
         },
         {
-          "id": "configured-forge-1.20.1-2.2.3.jar",
+          "id": "generated.forgemod:configured:forge-1.20.1-2.2.3@jar",
           "name": "configured-forge-1.20.1-2.2.3.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -734,7 +737,7 @@
           }
         },
         {
-          "id": "connectivity-1.20.1-7.6.jar",
+          "id": "generated.forgemod:connectivity:1.20.1-7.6@jar",
           "name": "connectivity-1.20.1-7.6.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -743,7 +746,7 @@
           }
         },
         {
-          "id": "Connector-1.0.0-beta.47+1.20.1.jar",
+          "id": "generated.forgemod:connector:1.0.0-beta.47+1.20.1@jar",
           "name": "Connector-1.0.0-beta.47+1.20.1.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -752,7 +755,7 @@
           }
         },
         {
-          "id": "Controlling-forge-1.20.1-12.0.2.jar",
+          "id": "generated.forgemod:controlling:forge-1.20.1-12.0.2@jar",
           "name": "Controlling-forge-1.20.1-12.0.2.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -761,7 +764,7 @@
           }
         },
         {
-          "id": "Corgilib-Forge-1.20.1-4.0.3.4.jar",
+          "id": "generated.forgemod:corgilib:Forge-1.20.1-4.0.3.4@jar",
           "name": "Corgilib-Forge-1.20.1-4.0.3.4.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -770,7 +773,7 @@
           }
         },
         {
-          "id": "coroutil-forge-1.20.1-1.3.7.jar",
+          "id": "generated.forgemod:coroutil:forge-1.20.1-1.3.7@jar",
           "name": "coroutil-forge-1.20.1-1.3.7.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -779,7 +782,7 @@
           }
         },
         {
-          "id": "corpsecurioscompat-1.20.1-Forge-3.1.3.jar",
+          "id": "generated.forgemod:corpsecurioscompat:1.20.1-Forge-3.1.3@jar",
           "name": "corpsecurioscompat-1.20.1-Forge-3.1.3.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -788,7 +791,7 @@
           }
         },
         {
-          "id": "corpse-forge-1.20.1-1.0.23.jar",
+          "id": "generated.forgemod:corpse:forge-1.20.1-1.0.23@jar",
           "name": "corpse-forge-1.20.1-1.0.23.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -797,7 +800,7 @@
           }
         },
         {
-          "id": "cosmeticarmorreworked-1.20.1-v1a.jar",
+          "id": "generated.forgemod:cosmeticarmorreworked:1.20.1-v1a@jar",
           "name": "cosmeticarmorreworked-1.20.1-v1a.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -806,7 +809,7 @@
           }
         },
         {
-          "id": "CreativeCore_FORGE_v2.12.32_mc1.20.1.jar",
+          "id": "generated.forgemod:creativecore_forge_v2.12.32_mc1.20.1:0.0.0@jar",
           "name": "CreativeCore_FORGE_v2.12.32_mc1.20.1.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -815,7 +818,7 @@
           }
         },
         {
-          "id": "creepydecorations-forge-1.20.1-1.0.3.jar",
+          "id": "generated.forgemod:creepydecorations:forge-1.20.1-1.0.3@jar",
           "name": "creepydecorations-forge-1.20.1-1.0.3.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -824,7 +827,7 @@
           }
         },
         {
-          "id": "Cuffed-1.20.1-1.3.13.jar",
+          "id": "generated.forgemod:cuffed:1.20.1-1.3.13@jar",
           "name": "Cuffed-1.20.1-1.3.13.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -833,7 +836,7 @@
           }
         },
         {
-          "id": "CullLessLeaves-Reforged-1.20.1-1.0.5.jar",
+          "id": "generated.forgemod:culllessleaves:Reforged-1.20.1-1.0.5@jar",
           "name": "CullLessLeaves-Reforged-1.20.1-1.0.5.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -842,7 +845,7 @@
           }
         },
         {
-          "id": "cupboard-1.20.1-2.7.jar",
+          "id": "generated.forgemod:cupboard:1.20.1-2.7@jar",
           "name": "cupboard-1.20.1-2.7.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -851,7 +854,7 @@
           }
         },
         {
-          "id": "curios-forge-5.14.1+1.20.1.jar",
+          "id": "generated.forgemod:curios:forge-5.14.1+1.20.1@jar",
           "name": "curios-forge-5.14.1+1.20.1.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -860,7 +863,7 @@
           }
         },
         {
-          "id": "decocraft-3.0.4-1.20.1-slim.jar",
+          "id": "generated.forgemod:decocraft:3.0.4-1.20.1-slim@jar",
           "name": "decocraft-3.0.4-1.20.1-slim.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -869,7 +872,7 @@
           }
         },
         {
-          "id": "deltaboxlib-forge-2.2.0+1.20.1.jar",
+          "id": "generated.forgemod:deltaboxlib:forge-2.2.0+1.20.1@jar",
           "name": "deltaboxlib-forge-2.2.0+1.20.1.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -878,7 +881,7 @@
           }
         },
         {
-          "id": "dooms-core-2.0.1.jar",
+          "id": "generated.forgemod:dooms:core-2.0.1@jar",
           "name": "dooms-core-2.0.1.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -887,7 +890,7 @@
           }
         },
         {
-          "id": "doomsday_decoration-1.1.3-forge-1.20.1.jar",
+          "id": "generated.forgemod:doomsday_decoration:1.1.3-forge-1.20.1@jar",
           "name": "doomsday_decoration-1.1.3-forge-1.20.1.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -896,7 +899,7 @@
           }
         },
         {
-          "id": "DustrialDecor-1.3.5-1.20.jar",
+          "id": "generated.forgemod:dustrialdecor:1.3.5-1.20@jar",
           "name": "DustrialDecor-1.3.5-1.20.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -905,7 +908,7 @@
           }
         },
         {
-          "id": "dynamiclights-1.20.1.2.jar",
+          "id": "generated.forgemod:dynamiclights:1.20.1.2@jar",
           "name": "dynamiclights-1.20.1.2.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -914,16 +917,19 @@
           }
         },
         {
-          "id": "embeddium-0.3.31+mc1.20.1.jar",
+          "id": "generated.forgemod:embeddium:0.3.31+mc1.20.1@jar",
           "name": "embeddium-0.3.31+mc1.20.1.jar",
           "type": "ForgeMod",
+          "required": {
+            "value": false
+          },
           "artifact": {
             "size": 0,
             "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/embeddium-0.3.31+mc1.20.1.jar"
           }
         },
         {
-          "id": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
+          "id": "generated.forgemod:emotecraft:for-MC1.20.1-2.2.7-b.build.50-forge@jar",
           "name": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -932,7 +938,7 @@
           }
         },
         {
-          "id": "EnchantmentDescriptions-Forge-1.20.1-17.1.20.jar",
+          "id": "generated.forgemod:enchantmentdescriptions:Forge-1.20.1-17.1.20@jar",
           "name": "EnchantmentDescriptions-Forge-1.20.1-17.1.20.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -941,7 +947,7 @@
           }
         },
         {
-          "id": "endlessammo-1.2.0.jar",
+          "id": "generated.forgemod:endlessammo:1.2.0@jar",
           "name": "endlessammo-1.2.0.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -950,7 +956,7 @@
           }
         },
         {
-          "id": "entity_model_features_1.20.1-forge-3.0.11.jar",
+          "id": "generated.forgemod:entity_model_features_1.20.1:forge-3.0.11@jar",
           "name": "entity_model_features_1.20.1-forge-3.0.11.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -959,7 +965,7 @@
           }
         },
         {
-          "id": "entity_texture_features_1.20.1-forge-7.0.8.jar",
+          "id": "generated.forgemod:entity_texture_features_1.20.1:forge-7.0.8@jar",
           "name": "entity_texture_features_1.20.1-forge-7.0.8.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -968,7 +974,7 @@
           }
         },
         {
-          "id": "fabric-api-0.92.6+1.11.14+1.20.1.jar",
+          "id": "generated.forgemod:fabric:api-0.92.6+1.11.14+1.20.1@jar",
           "name": "fabric-api-0.92.6+1.11.14+1.20.1.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -977,7 +983,7 @@
           }
         },
         {
-          "id": "FarmersDelight-1.20.1-1.2.9.jar",
+          "id": "generated.forgemod:farmersdelight:1.20.1-1.2.9@jar",
           "name": "FarmersDelight-1.20.1-1.2.9.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -986,7 +992,7 @@
           }
         },
         {
-          "id": "FastSuite-1.20.1-5.1.2.jar",
+          "id": "generated.forgemod:fastsuite:1.20.1-5.1.2@jar",
           "name": "FastSuite-1.20.1-5.1.2.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -995,7 +1001,7 @@
           }
         },
         {
-          "id": "ferritecore-6.0.1-forge.jar",
+          "id": "generated.forgemod:ferritecore:6.0.1-forge@jar",
           "name": "ferritecore-6.0.1-forge.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1004,7 +1010,7 @@
           }
         },
         {
-          "id": "flib-1.20.1-0.0.15.jar",
+          "id": "generated.forgemod:flib:1.20.1-0.0.15@jar",
           "name": "flib-1.20.1-0.0.15.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1013,7 +1019,7 @@
           }
         },
         {
-          "id": "footwork-4.3.9.jar",
+          "id": "generated.forgemod:footwork:4.3.9@jar",
           "name": "footwork-4.3.9.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1022,7 +1028,7 @@
           }
         },
         {
-          "id": "FramedBlocks-9.4.3.jar",
+          "id": "generated.forgemod:framedblocks:9.4.3@jar",
           "name": "FramedBlocks-9.4.3.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1031,7 +1037,7 @@
           }
         },
         {
-          "id": "framework-forge-1.20.1-0.8.0.jar",
+          "id": "generated.forgemod:framework:forge-1.20.1-0.8.0@jar",
           "name": "framework-forge-1.20.1-0.8.0.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1040,7 +1046,7 @@
           }
         },
         {
-          "id": "ftb-essentials-forge-2001.2.3.jar",
+          "id": "generated.forgemod:ftb:essentials-forge-2001.2.3@jar",
           "name": "ftb-essentials-forge-2001.2.3.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1049,7 +1055,7 @@
           }
         },
         {
-          "id": "ftb-library-forge-2001.2.12.jar",
+          "id": "generated.forgemod:ftb:library-forge-2001.2.12@jar",
           "name": "ftb-library-forge-2001.2.12.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1058,7 +1064,7 @@
           }
         },
         {
-          "id": "ftb-teams-forge-2001.3.2.jar",
+          "id": "generated.forgemod:ftb:teams-forge-2001.3.2@jar",
           "name": "ftb-teams-forge-2001.3.2.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1067,7 +1073,7 @@
           }
         },
         {
-          "id": "GamingDeco 1.8.3 Forge 1.20.1..jar",
+          "id": "generated.forgemod:gamingdeco 1.8.3 forge 1.20.1.:0.0.0@jar",
           "name": "GamingDeco 1.8.3 Forge 1.20.1..jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1076,7 +1082,7 @@
           }
         },
         {
-          "id": "geckolib-forge-1.20.1-4.8.3.jar",
+          "id": "generated.forgemod:geckolib:forge-1.20.1-4.8.3@jar",
           "name": "geckolib-forge-1.20.1-4.8.3.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1085,7 +1091,7 @@
           }
         },
         {
-          "id": "GlitchCore-forge-1.20.1-0.0.1.1.jar",
+          "id": "generated.forgemod:glitchcore:forge-1.20.1-0.0.1.1@jar",
           "name": "GlitchCore-forge-1.20.1-0.0.1.1.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1094,7 +1100,7 @@
           }
         },
         {
-          "id": "guccivuitton-1.20.1-0.2.2.jar",
+          "id": "generated.forgemod:guccivuitton:1.20.1-0.2.2@jar",
           "name": "guccivuitton-1.20.1-0.2.2.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1103,7 +1109,7 @@
           }
         },
         {
-          "id": "hourglass-1.20-1.2.1.1.jar",
+          "id": "generated.forgemod:hourglass:1.20-1.2.1.1@jar",
           "name": "hourglass-1.20-1.2.1.1.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1112,7 +1118,7 @@
           }
         },
         {
-          "id": "Iceberg-1.20.1-forge-1.1.25.jar",
+          "id": "generated.forgemod:iceberg:1.20.1-forge-1.1.25@jar",
           "name": "Iceberg-1.20.1-forge-1.1.25.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1121,7 +1127,7 @@
           }
         },
         {
-          "id": "incontrol-1.20-9.4.6.jar",
+          "id": "generated.forgemod:incontrol:1.20-9.4.6@jar",
           "name": "incontrol-1.20-9.4.6.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1130,7 +1136,7 @@
           }
         },
         {
-          "id": "insanelib-1.23.4.2.jar",
+          "id": "generated.forgemod:insanelib:1.23.4.2@jar",
           "name": "insanelib-1.23.4.2.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1139,7 +1145,7 @@
           }
         },
         {
-          "id": "Jade-1.20.1-Forge-11.13.2.jar",
+          "id": "generated.forgemod:jade:1.20.1-Forge-11.13.2@jar",
           "name": "Jade-1.20.1-Forge-11.13.2.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1148,7 +1154,7 @@
           }
         },
         {
-          "id": "JadeAddons-1.20.1-Forge-5.5.0.jar",
+          "id": "generated.forgemod:jadeaddons:1.20.1-Forge-5.5.0@jar",
           "name": "JadeAddons-1.20.1-Forge-5.5.0.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1157,7 +1163,7 @@
           }
         },
         {
-          "id": "journeymap-1.20.1-5.10.3-forge.jar",
+          "id": "generated.forgemod:journeymap:1.20.1-5.10.3-forge@jar",
           "name": "journeymap-1.20.1-5.10.3-forge.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1166,7 +1172,7 @@
           }
         },
         {
-          "id": "Kiwi-1.20.1-Forge-11.10.1.jar",
+          "id": "generated.forgemod:kiwi:1.20.1-Forge-11.10.1@jar",
           "name": "Kiwi-1.20.1-Forge-11.10.1.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1175,7 +1181,7 @@
           }
         },
         {
-          "id": "konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+          "id": "generated.forgemod:konkrete_forge_1.8.0_mc_1.20:1.20.1@jar",
           "name": "konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1184,7 +1190,7 @@
           }
         },
         {
-          "id": "kotlinforforge-4.12.0-all.jar",
+          "id": "generated.forgemod:kotlinforforge:4.12.0-all@jar",
           "name": "kotlinforforge-4.12.0-all.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1193,7 +1199,7 @@
           }
         },
         {
-          "id": "Lazr_s Lib-1.20-1.1.1.jar",
+          "id": "generated.forgemod:lazr_s lib:1.20-1.1.1@jar",
           "name": "Lazr_s Lib-1.20-1.1.1.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1202,7 +1208,7 @@
           }
         },
         {
-          "id": "lexiconfig-forge-1.4.18-1.jar",
+          "id": "generated.forgemod:lexiconfig:forge-1.4.18-1@jar",
           "name": "lexiconfig-forge-1.4.18-1.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1211,7 +1217,7 @@
           }
         },
         {
-          "id": "lionfishapi-2.4-Fix.jar",
+          "id": "generated.forgemod:lionfishapi:2.4-Fix@jar",
           "name": "lionfishapi-2.4-Fix.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1220,7 +1226,7 @@
           }
         },
         {
-          "id": "lootr-forge-1.20-0.7.35.94.jar",
+          "id": "generated.forgemod:lootr:forge-1.20-0.7.35.94@jar",
           "name": "lootr-forge-1.20-0.7.35.94.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1229,7 +1235,7 @@
           }
         },
         {
-          "id": "lrarmor-1.20.1-0.1.4.4.jar",
+          "id": "generated.forgemod:lrarmor:1.20.1-0.1.4.4@jar",
           "name": "lrarmor-1.20.1-0.1.4.4.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1238,7 +1244,7 @@
           }
         },
         {
-          "id": "lrtactical-1.20.1-0.3.0.jar",
+          "id": "generated.forgemod:lrtactical:1.20.1-0.3.0@jar",
           "name": "lrtactical-1.20.1-0.3.0.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1247,7 +1253,7 @@
           }
         },
         {
-          "id": "marbledsarsenal-1.20.1forge-2.3.0.3.jar",
+          "id": "generated.forgemod:marbledsarsenal:1.20.1forge-2.3.0.3@jar",
           "name": "marbledsarsenal-1.20.1forge-2.3.0.3.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1256,7 +1262,7 @@
           }
         },
         {
-          "id": "marbledsfirstaid-1.20.1forge-1.2.0.0.jar",
+          "id": "generated.forgemod:marbledsfirstaid:1.20.1forge-1.2.0.0@jar",
           "name": "marbledsfirstaid-1.20.1forge-1.2.0.0.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1265,7 +1271,7 @@
           }
         },
         {
-          "id": "maxstuff-1.8.1.jar",
+          "id": "generated.forgemod:maxstuff:1.8.1@jar",
           "name": "maxstuff-1.8.1.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1274,7 +1280,7 @@
           }
         },
         {
-          "id": "mcore-1.20.1-1.0.3.0.jar",
+          "id": "generated.forgemod:mcore:1.20.1-1.0.3.0@jar",
           "name": "mcore-1.20.1-1.0.3.0.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1283,7 +1289,7 @@
           }
         },
         {
-          "id": "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+          "id": "generated.forgemod:melody_forge_1.0.3_mc_1.20.1:1.20.4@jar",
           "name": "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1292,7 +1298,7 @@
           }
         },
         {
-          "id": "MineTraps-1.20.2-(v.2.3.0a).jar",
+          "id": "generated.forgemod:minetraps:1.20.2-(v.2.3.0a)@jar",
           "name": "MineTraps-1.20.2-(v.2.3.0a).jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1301,7 +1307,7 @@
           }
         },
         {
-          "id": "MOAdecor ART 1.20.1.jar",
+          "id": "generated.forgemod:moadecor art 1.20.1:0.0.0@jar",
           "name": "MOAdecor ART 1.20.1.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1310,7 +1316,7 @@
           }
         },
         {
-          "id": "MOAdecor BATH 1.20.1.jar",
+          "id": "generated.forgemod:moadecor bath 1.20.1:0.0.0@jar",
           "name": "MOAdecor BATH 1.20.1.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1319,7 +1325,7 @@
           }
         },
         {
-          "id": "MOAdecor COOKERY 1.20.2.jar",
+          "id": "generated.forgemod:moadecor cookery 1.20.2:0.0.0@jar",
           "name": "MOAdecor COOKERY 1.20.2.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1328,7 +1334,7 @@
           }
         },
         {
-          "id": "MOAdecor ELECTRONICS 1.20.1.A.jar",
+          "id": "generated.forgemod:moadecor electronics 1.20.1.a:0.0.0@jar",
           "name": "MOAdecor ELECTRONICS 1.20.1.A.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1337,7 +1343,7 @@
           }
         },
         {
-          "id": "MOAdecor GARDEN 1.20.1.jar",
+          "id": "generated.forgemod:moadecor garden 1.20.1:0.0.0@jar",
           "name": "MOAdecor GARDEN 1.20.1.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1346,7 +1352,7 @@
           }
         },
         {
-          "id": "MOAdecor HOLIDAYS 1.20.1.jar",
+          "id": "generated.forgemod:moadecor holidays 1.20.1:0.0.0@jar",
           "name": "MOAdecor HOLIDAYS 1.20.1.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1355,7 +1361,7 @@
           }
         },
         {
-          "id": "MOAdecor LIGHTS 1.20.1.jar",
+          "id": "generated.forgemod:moadecor lights 1.20.1:0.0.0@jar",
           "name": "MOAdecor LIGHTS 1.20.1.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1364,7 +1370,7 @@
           }
         },
         {
-          "id": "MOAdecor SCIENCE 1.20.1.jar",
+          "id": "generated.forgemod:moadecor science 1.20.1:0.0.0@jar",
           "name": "MOAdecor SCIENCE 1.20.1.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1373,7 +1379,7 @@
           }
         },
         {
-          "id": "MOAdecor TOYS 1.20.1.jar",
+          "id": "generated.forgemod:moadecor toys 1.20.1:0.0.0@jar",
           "name": "MOAdecor TOYS 1.20.1.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1382,7 +1388,7 @@
           }
         },
         {
-          "id": "modernlife-1.20.1-1.77.jar",
+          "id": "generated.forgemod:modernlife:1.20.1-1.77@jar",
           "name": "modernlife-1.20.1-1.77.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1391,7 +1397,7 @@
           }
         },
         {
-          "id": "MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+          "id": "generated.forgemod:mousetweaks:forge-mc1.20.1-2.25.1@jar",
           "name": "MouseTweaks-forge-mc1.20.1-2.25.1.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1400,7 +1406,7 @@
           }
         },
         {
-          "id": "MRU-1.0.4+1.20.1+forge.jar",
+          "id": "generated.forgemod:mru:1.0.4+1.20.1+forge@jar",
           "name": "MRU-1.0.4+1.20.1+forge.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1409,7 +1415,7 @@
           }
         },
         {
-          "id": "OctoLib-FORGE-0.5.0.1+1.20.1.jar",
+          "id": "generated.forgemod:octolib:FORGE-0.5.0.1+1.20.1@jar",
           "name": "OctoLib-FORGE-0.5.0.1+1.20.1.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1418,7 +1424,7 @@
           }
         },
         {
-          "id": "oculus-mc1.20.1-1.8.0.jar",
+          "id": "generated.forgemod:oculus:mc1.20.1-1.8.0@jar",
           "name": "oculus-mc1.20.1-1.8.0.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1427,7 +1433,7 @@
           }
         },
         {
-          "id": "packetfixer-3.3.1-1.18-1.20.4-merged.jar",
+          "id": "generated.forgemod:packetfixer:3.3.1-1.18-1.20.4-merged@jar",
           "name": "packetfixer-3.3.1-1.18-1.20.4-merged.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1436,7 +1442,7 @@
           }
         },
         {
-          "id": "Paraglider-forge-20.1.3.jar",
+          "id": "generated.forgemod:paraglider:forge-20.1.3@jar",
           "name": "Paraglider-forge-20.1.3.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1445,7 +1451,7 @@
           }
         },
         {
-          "id": "Patchouli-1.20.1-84.1-FORGE.jar",
+          "id": "generated.forgemod:patchouli:1.20.1-84.1-FORGE@jar",
           "name": "Patchouli-1.20.1-84.1-FORGE.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1454,7 +1460,7 @@
           }
         },
         {
-          "id": "Placebo-1.20.1-8.6.3.jar",
+          "id": "generated.forgemod:placebo:1.20.1-8.6.3@jar",
           "name": "Placebo-1.20.1-8.6.3.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1463,7 +1469,7 @@
           }
         },
         {
-          "id": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+          "id": "generated.forgemod:player:animation-lib-forge-1.0.2-rc1+1.20@jar",
           "name": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1472,7 +1478,7 @@
           }
         },
         {
-          "id": "playingcards-2.0.1.jar",
+          "id": "generated.forgemod:playingcards:2.0.1@jar",
           "name": "playingcards-2.0.1.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1481,7 +1487,7 @@
           }
         },
         {
-          "id": "polymorph-forge-0.49.10+1.20.1.jar",
+          "id": "generated.forgemod:polymorph:forge-0.49.10+1.20.1@jar",
           "name": "polymorph-forge-0.49.10+1.20.1.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1490,7 +1496,7 @@
           }
         },
         {
-          "id": "Prism-1.20.1-forge-1.0.5.jar",
+          "id": "generated.forgemod:prism:1.20.1-forge-1.0.5@jar",
           "name": "Prism-1.20.1-forge-1.0.5.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1499,7 +1505,7 @@
           }
         },
         {
-          "id": "PTS-Deco-4.0.4.5-Forge1.20.1.jar",
+          "id": "generated.forgemod:pts:Deco-4.0.4.5-Forge1.20.1@jar",
           "name": "PTS-Deco-4.0.4.5-Forge1.20.1.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1508,7 +1514,7 @@
           }
         },
         {
-          "id": "resourcefulconfig-forge-1.20.1-2.1.3.jar",
+          "id": "generated.forgemod:resourcefulconfig:forge-1.20.1-2.1.3@jar",
           "name": "resourcefulconfig-forge-1.20.1-2.1.3.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1517,7 +1523,7 @@
           }
         },
         {
-          "id": "resourcefullib-forge-1.20.1-2.1.29.jar",
+          "id": "generated.forgemod:resourcefullib:forge-1.20.1-2.1.29@jar",
           "name": "resourcefullib-forge-1.20.1-2.1.29.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1526,7 +1532,7 @@
           }
         },
         {
-          "id": "Satako-7.0.33-1.20.1.jar",
+          "id": "generated.forgemod:satako:7.0.33-1.20.1@jar",
           "name": "Satako-7.0.33-1.20.1.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1535,7 +1541,7 @@
           }
         },
         {
-          "id": "scholar-1.20.1-1.1.9-forge.jar",
+          "id": "generated.forgemod:scholar:1.20.1-1.1.9-forge@jar",
           "name": "scholar-1.20.1-1.1.9-forge.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1544,7 +1550,7 @@
           }
         },
         {
-          "id": "Searchables-forge-1.20.1-1.0.3.jar",
+          "id": "generated.forgemod:searchables:forge-1.20.1-1.0.3@jar",
           "name": "Searchables-forge-1.20.1-1.0.3.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1553,7 +1559,7 @@
           }
         },
         {
-          "id": "simplylight-1.20.1-1.4.6-build.50.jar",
+          "id": "generated.forgemod:simplylight:1.20.1-1.4.6-build.50@jar",
           "name": "simplylight-1.20.1-1.4.6-build.50.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1562,7 +1568,7 @@
           }
         },
         {
-          "id": "Skarts-Decorations-0.3.1-(1.20.1).jar",
+          "id": "generated.forgemod:skarts:Decorations-0.3.1-(1.20.1)@jar",
           "name": "Skarts-Decorations-0.3.1-(1.20.1).jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1571,7 +1577,7 @@
           }
         },
         {
-          "id": "SmartBrainLib-forge-1.20.1-1.15.jar",
+          "id": "generated.forgemod:smartbrainlib:forge-1.20.1-1.15@jar",
           "name": "SmartBrainLib-forge-1.20.1-1.15.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1580,7 +1586,7 @@
           }
         },
         {
-          "id": "smoothchunk-1.20.1-4.1.jar",
+          "id": "generated.forgemod:smoothchunk:1.20.1-4.1@jar",
           "name": "smoothchunk-1.20.1-4.1.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1589,7 +1595,7 @@
           }
         },
         {
-          "id": "sophisticatedbackpacks-1.20.1-3.24.20.1500.jar",
+          "id": "generated.forgemod:sophisticatedbackpacks:1.20.1-3.24.20.1500@jar",
           "name": "sophisticatedbackpacks-1.20.1-3.24.20.1500.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1598,7 +1604,7 @@
           }
         },
         {
-          "id": "sophisticatedcore-1.20.1-1.3.1.1460.jar",
+          "id": "generated.forgemod:sophisticatedcore:1.20.1-1.3.1.1460@jar",
           "name": "sophisticatedcore-1.20.1-1.3.1.1460.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1607,7 +1613,7 @@
           }
         },
         {
-          "id": "structure_gel-1.20.1-2.16.2.jar",
+          "id": "generated.forgemod:structure_gel:1.20.1-2.16.2@jar",
           "name": "structure_gel-1.20.1-2.16.2.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1616,7 +1622,7 @@
           }
         },
         {
-          "id": "supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+          "id": "generated.forgemod:supermartijn642configlib:1.1.8-forge-mc1.20@jar",
           "name": "supermartijn642configlib-1.1.8-forge-mc1.20.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1625,7 +1631,7 @@
           }
         },
         {
-          "id": "survival_instinct-1.0.2-forge-1.20.1.jar",
+          "id": "generated.forgemod:survival_instinct:1.0.2-forge-1.20.1@jar",
           "name": "survival_instinct-1.0.2-forge-1.20.1.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1634,7 +1640,7 @@
           }
         },
         {
-          "id": "tacz-1.20.1-1.1.7-hotfix.jar",
+          "id": "generated.forgemod:tacz:1.20.1-1.1.7-hotfix@jar",
           "name": "tacz-1.20.1-1.1.7-hotfix.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1643,7 +1649,7 @@
           }
         },
         {
-          "id": "taczaddon-1.20.1-1.1.6.jar",
+          "id": "generated.forgemod:taczaddon:1.20.1-1.1.6@jar",
           "name": "taczaddon-1.20.1-1.1.6.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1652,7 +1658,7 @@
           }
         },
         {
-          "id": "TerraBlender-forge-1.20.1-3.0.1.10.jar",
+          "id": "generated.forgemod:terrablender:forge-1.20.1-3.0.1.10@jar",
           "name": "TerraBlender-forge-1.20.1-3.0.1.10.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1661,7 +1667,7 @@
           }
         },
         {
-          "id": "trashslot-forge-1.20.1-15.1.3.jar",
+          "id": "generated.forgemod:trashslot:forge-1.20.1-15.1.3@jar",
           "name": "trashslot-forge-1.20.1-15.1.3.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1670,7 +1676,7 @@
           }
         },
         {
-          "id": "waterframes-FORGE-mc1.20.1-v2.1.22.jar",
+          "id": "generated.forgemod:waterframes:FORGE-mc1.20.1-v2.1.22@jar",
           "name": "waterframes-FORGE-mc1.20.1-v2.1.22.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1679,7 +1685,7 @@
           }
         },
         {
-          "id": "watermedia_youtube_plugin-2.1.2.jar",
+          "id": "generated.forgemod:watermedia_youtube_plugin:2.1.2@jar",
           "name": "watermedia_youtube_plugin-2.1.2.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1688,7 +1694,7 @@
           }
         },
         {
-          "id": "watermedia-2.1.37.jar",
+          "id": "generated.forgemod:watermedia:2.1.37@jar",
           "name": "watermedia-2.1.37.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1697,7 +1703,7 @@
           }
         },
         {
-          "id": "watervision-FG-mc1.20.1-v0.1.0-alpha.jar",
+          "id": "generated.forgemod:watervision:FG-mc1.20.1-v0.1.0-alpha@jar",
           "name": "watervision-FG-mc1.20.1-v0.1.0-alpha.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1706,7 +1712,7 @@
           }
         },
         {
-          "id": "WorldEditCUI-1.20+01.jar",
+          "id": "generated.forgemod:worldeditcui:1.20+01@jar",
           "name": "WorldEditCUI-1.20+01.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1715,7 +1721,7 @@
           }
         },
         {
-          "id": "worldedit-mod-7.2.15.jar",
+          "id": "generated.forgemod:worldedit:mod-7.2.15@jar",
           "name": "worldedit-mod-7.2.15.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1724,7 +1730,7 @@
           }
         },
         {
-          "id": "XeKr's Decoration-1.20.1-Forge-0.9.6.jar",
+          "id": "generated.forgemod:xekr's decoration:1.20.1-Forge-0.9.6@jar",
           "name": "XeKr's Decoration-1.20.1-Forge-0.9.6.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1733,7 +1739,7 @@
           }
         },
         {
-          "id": "yawp-1.20.1-forge-0.6.3-beta1.jar",
+          "id": "generated.forgemod:yawp:1.20.1-forge-0.6.3-beta1@jar",
           "name": "yawp-1.20.1-forge-0.6.3-beta1.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1742,7 +1748,7 @@
           }
         },
         {
-          "id": "yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
+          "id": "generated.forgemod:yet_another_config_lib_v3:3.6.6+1.20.1-forge@jar",
           "name": "yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1751,7 +1757,7 @@
           }
         },
         {
-          "id": "Zeta-1.0-31.jar",
+          "id": "generated.forgemod:zeta:1.0-31@jar",
           "name": "Zeta-1.0-31.jar",
           "type": "ForgeMod",
           "artifact": {
