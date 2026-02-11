@@ -11,6 +11,7 @@
       "id": "cobbletournamentid-1.20.1",
       "name": "Cobble Tournament",
       "description": "O Melhor Servidor de Minecraft do Brasil",
+      "icon": "https://cdn.discordapp.com/attachments/1350975796155515034/1468331179685056573/Logo_Pixeis_DoOutroLado.png?ex=698d84b9&is=698c3339&hm=8bdeb30b8393c129e056da27f9075639f2e880855f3fe0a678351b56007e7d35&",
       "version": "1.0.0",
       "address": "cobbletournament.redmc.com.br",
       "minecraftVersion": "1.20.1",
@@ -26,7 +27,6 @@
             "MD5": "39c68f8be018557068512f16cf3f97fa",
             "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/lib__net__minecraftforge__lowcodelanguage__1.20.1-47.4.10__lowcodelanguage-1.20.1-47.4.10.jar"
           },
-          "classpath": true,
           "subModules": [
             {
               "id": "1.20.1-47.4.10",
@@ -424,7 +424,8 @@
                 "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/lib__net__minecraftforge__fmlearlydisplay__1.20.1-47.4.10__fmlearlydisplay-1.20.1-47.4.10.jar"
               }
             }
-          ]
+          ],
+          "classpath": true
         },
         {
           "id": "alltheleaks-1.1.1+1.20.1-forge.jar",
@@ -1758,8 +1759,7 @@
             "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/Zeta-1.0-31.jar"
           }
         }
-      ],
-      "icon": "https://cdn.discordapp.com/attachments/1350975796155515034/1468331179685056573/Logo_Pixeis_DoOutroLado.png?ex=698d84b9&is=698c3339&hm=8bdeb30b8393c129e056da27f9075639f2e880855f3fe0a678351b56007e7d35&"
+      ]
     }
   ]
 }
