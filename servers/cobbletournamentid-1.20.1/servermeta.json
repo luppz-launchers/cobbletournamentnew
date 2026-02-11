@@ -2,9 +2,9 @@
   "$schema": "http://localhost:8080/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "Cobble Tournament",
-    "description": "O Melhor Servidor de Minecraft do Brasil",
-    "address": "cobbletournament.redmc.com.br",
+    "name": "CobbleTorneio",
+    "description": "Melhor servidor de Minecraft do Planeta",
+    "address": "cobbletournament.redmc.com",
     "mainServer": true,
     "autoconnect": true
   },
