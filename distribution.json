@@ -491,7 +491,7 @@
           }
         },
         {
-          "id": "generated.forgemod:atlas lib:1.20.1-1.1.12@jar",
+          "id": "generated.forgemod:atlas-lib:1.20.1-1.1.12@jar",
           "name": "Atlas Lib-1.20.1-1.1.12.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -554,7 +554,7 @@
           }
         },
         {
-          "id": "generated.forgemod:better mob food : Version 1.0.1 (Beta)@jar",
+          "id": "generated.forgemod:better-mob-food:Version 1.0.1 (Beta)@jar",
           "name": "Better Mob Food - Version 1.0.1 (Beta).jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1073,7 +1073,7 @@
           }
         },
         {
-          "id": "generated.forgemod:gamingdeco 1.8.3 forge 1.20.1.:0.0.0@jar",
+          "id": "generated.forgemod:gamingdeco-1.8.3-forge-1.20.1.:0.0.0@jar",
           "name": "GamingDeco 1.8.3 Forge 1.20.1..jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1199,7 +1199,7 @@
           }
         },
         {
-          "id": "generated.forgemod:lazr_s lib:1.20-1.1.1@jar",
+          "id": "generated.forgemod:lazr_s-lib:1.20-1.1.1@jar",
           "name": "Lazr_s Lib-1.20-1.1.1.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1307,7 +1307,7 @@
           }
         },
         {
-          "id": "generated.forgemod:moadecor art 1.20.1:0.0.0@jar",
+          "id": "generated.forgemod:moadecor-art-1.20.1:0.0.0@jar",
           "name": "MOAdecor ART 1.20.1.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1316,7 +1316,7 @@
           }
         },
         {
-          "id": "generated.forgemod:moadecor bath 1.20.1:0.0.0@jar",
+          "id": "generated.forgemod:moadecor-bath-1.20.1:0.0.0@jar",
           "name": "MOAdecor BATH 1.20.1.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1325,7 +1325,7 @@
           }
         },
         {
-          "id": "generated.forgemod:moadecor cookery 1.20.2:0.0.0@jar",
+          "id": "generated.forgemod:moadecor-cookery-1.20.2:0.0.0@jar",
           "name": "MOAdecor COOKERY 1.20.2.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1334,7 +1334,7 @@
           }
         },
         {
-          "id": "generated.forgemod:moadecor electronics 1.20.1.a:0.0.0@jar",
+          "id": "generated.forgemod:moadecor-electronics-1.20.1.a:0.0.0@jar",
           "name": "MOAdecor ELECTRONICS 1.20.1.A.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1343,7 +1343,7 @@
           }
         },
         {
-          "id": "generated.forgemod:moadecor garden 1.20.1:0.0.0@jar",
+          "id": "generated.forgemod:moadecor-garden-1.20.1:0.0.0@jar",
           "name": "MOAdecor GARDEN 1.20.1.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1352,7 +1352,7 @@
           }
         },
         {
-          "id": "generated.forgemod:moadecor holidays 1.20.1:0.0.0@jar",
+          "id": "generated.forgemod:moadecor-holidays-1.20.1:0.0.0@jar",
           "name": "MOAdecor HOLIDAYS 1.20.1.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1361,7 +1361,7 @@
           }
         },
         {
-          "id": "generated.forgemod:moadecor lights 1.20.1:0.0.0@jar",
+          "id": "generated.forgemod:moadecor-lights-1.20.1:0.0.0@jar",
           "name": "MOAdecor LIGHTS 1.20.1.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1370,7 +1370,7 @@
           }
         },
         {
-          "id": "generated.forgemod:moadecor science 1.20.1:0.0.0@jar",
+          "id": "generated.forgemod:moadecor-science-1.20.1:0.0.0@jar",
           "name": "MOAdecor SCIENCE 1.20.1.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1379,7 +1379,7 @@
           }
         },
         {
-          "id": "generated.forgemod:moadecor toys 1.20.1:0.0.0@jar",
+          "id": "generated.forgemod:moadecor-toys-1.20.1:0.0.0@jar",
           "name": "MOAdecor TOYS 1.20.1.jar",
           "type": "ForgeMod",
           "artifact": {
@@ -1730,7 +1730,7 @@
           }
         },
         {
-          "id": "generated.forgemod:xekr's decoration:1.20.1-Forge-0.9.6@jar",
+          "id": "generated.forgemod:xekr-s-decoration:1.20.1-Forge-0.9.6@jar",
           "name": "XeKr's Decoration-1.20.1-Forge-0.9.6.jar",
           "type": "ForgeMod",
           "artifact": {
