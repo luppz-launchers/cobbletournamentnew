@@ -447,7 +447,7 @@
           }
         },
         {
-          "id": "generated.forgemod:cobbletournamentid:1.20.1__Better Mob Food - Version 1.0.1 (Beta)@jar",
+          "id": "generated.forgemod:cobbletournamentid:1.20.1__Better.Mob.Food.-.Version.1.0.1.Beta@jar",
           "name": "Better Mob Food ",
           "type": "ForgeMod",
           "artifact": {
@@ -497,7 +497,7 @@
           }
         },
         {
-          "id": "generated.forgemod:cobbletournamentid:1.20.1__bulletarmorenchant-1.0-1.20.1 chineseadd@jar",
+          "id": "generated.forgemod:cobbletournamentid:1.20.1__bulletarmorenchant-1.0-1.20.1.chineseadd@jar",
           "name": "bulletarmorenchant",
           "type": "ForgeMod",
           "artifact": {
@@ -1017,7 +1017,7 @@
           }
         },
         {
-          "id": "generated.forgemod:cobbletournamentid:1.20.1__GamingDeco 1.8.3 Forge 1.20.1.@jar",
+          "id": "generated.forgemod:cobbletournamentid:1.20.1__GamingDeco.1.8.3.Forge.1.20.1@jar",
           "name": "GamingDeco 1.8.3 Forge 1.20.1.",
           "type": "ForgeMod",
           "artifact": {
@@ -1157,7 +1157,7 @@
           }
         },
         {
-          "id": "generated.forgemod:cobbletournamentid:1.20.1__Lazr_s Lib-1.20-1.1.1@jar",
+          "id": "generated.forgemod:cobbletournamentid:1.20.1__Lazr_s.Lib-1.20-1.1.1@jar",
           "name": "Lazr_s Lib",
           "type": "ForgeMod",
           "artifact": {
@@ -1277,7 +1277,7 @@
           }
         },
         {
-          "id": "generated.forgemod:cobbletournamentid:1.20.1__MOAdecor ART 1.20.1@jar",
+          "id": "generated.forgemod:cobbletournamentid:1.20.1__MOAdecor.ART.1.20.1@jar",
           "name": "MOAdecor ART 1.20.1",
           "type": "ForgeMod",
           "artifact": {
@@ -1287,7 +1287,7 @@
           }
         },
         {
-          "id": "generated.forgemod:cobbletournamentid:1.20.1__MOAdecor BATH 1.20.1@jar",
+          "id": "generated.forgemod:cobbletournamentid:1.20.1__MOAdecor.BATH.1.20.1@jar",
           "name": "MOAdecor BATH 1.20.1",
           "type": "ForgeMod",
           "artifact": {
@@ -1297,7 +1297,7 @@
           }
         },
         {
-          "id": "generated.forgemod:cobbletournamentid:1.20.1__MOAdecor COOKERY 1.20.2@jar",
+          "id": "generated.forgemod:cobbletournamentid:1.20.1__MOAdecor.COOKERY.1.20.2@jar",
           "name": "MOAdecor COOKERY 1.20.2",
           "type": "ForgeMod",
           "artifact": {
@@ -1307,7 +1307,7 @@
           }
         },
         {
-          "id": "generated.forgemod:cobbletournamentid:1.20.1__MOAdecor ELECTRONICS 1.20.1.A@jar",
+          "id": "generated.forgemod:cobbletournamentid:1.20.1__MOAdecor.ELECTRONICS.1.20.1.A@jar",
           "name": "MOAdecor ELECTRONICS 1.20.1.A",
           "type": "ForgeMod",
           "artifact": {
@@ -1317,7 +1317,7 @@
           }
         },
         {
-          "id": "generated.forgemod:cobbletournamentid:1.20.1__MOAdecor GARDEN 1.20.1@jar",
+          "id": "generated.forgemod:cobbletournamentid:1.20.1__MOAdecor.GARDEN.1.20.1@jar",
           "name": "MOAdecor GARDEN 1.20.1",
           "type": "ForgeMod",
           "artifact": {
@@ -1327,7 +1327,7 @@
           }
         },
         {
-          "id": "generated.forgemod:cobbletournamentid:1.20.1__MOAdecor HOLIDAYS 1.20.1@jar",
+          "id": "generated.forgemod:cobbletournamentid:1.20.1__MOAdecor.HOLIDAYS.1.20.1@jar",
           "name": "MOAdecor HOLIDAYS 1.20.1",
           "type": "ForgeMod",
           "artifact": {
@@ -1337,7 +1337,7 @@
           }
         },
         {
-          "id": "generated.forgemod:cobbletournamentid:1.20.1__MOAdecor LIGHTS 1.20.1@jar",
+          "id": "generated.forgemod:cobbletournamentid:1.20.1__MOAdecor.LIGHTS.1.20.1@jar",
           "name": "MOAdecor LIGHTS 1.20.1",
           "type": "ForgeMod",
           "artifact": {
@@ -1347,7 +1347,7 @@
           }
         },
         {
-          "id": "generated.forgemod:cobbletournamentid:1.20.1__MOAdecor SCIENCE 1.20.1@jar",
+          "id": "generated.forgemod:cobbletournamentid:1.20.1__MOAdecor.SCIENCE.1.20.1@jar",
           "name": "MOAdecor SCIENCE 1.20.1",
           "type": "ForgeMod",
           "artifact": {
@@ -1357,7 +1357,7 @@
           }
         },
         {
-          "id": "generated.forgemod:cobbletournamentid:1.20.1__MOAdecor TOYS 1.20.1@jar",
+          "id": "generated.forgemod:cobbletournamentid:1.20.1__MOAdecor.TOYS.1.20.1@jar",
           "name": "MOAdecor TOYS 1.20.1",
           "type": "ForgeMod",
           "artifact": {
@@ -1747,7 +1747,7 @@
           }
         },
         {
-          "id": "generated.forgemod:cobbletournamentid:1.20.1__XeKr's Decoration-1.20.1-Forge-0.9.6@jar",
+          "id": "generated.forgemod:cobbletournamentid:1.20.1__XeKr.s.Decoration-1.20.1-Forge-0.9.6@jar",
           "name": "XeKr's Decoration",
           "type": "ForgeMod",
           "artifact": {
@@ -1857,7 +1857,7 @@
           }
         },
         {
-          "id": "generated.forgemod:cobbletournamentid:1.20.1__Atlas Lib-1.20.1-1.1.12@jar",
+          "id": "generated.forgemod:cobbletournamentid:1.20.1__Atlas.Lib-1.20.1-1.1.12@jar",
           "name": "Atlas Lib",
           "type": "ForgeMod",
           "artifact": {
