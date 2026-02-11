@@ -22,7 +22,7 @@
           "name": "Minecraft Forge (installer)",
           "type": "ForgeHosted",
           "artifact": {
-            "size": 0,
+            "size": 8807227,
             "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/lib__net__minecraftforge__forge__1.20.1-47.4.16__forge-1.20.1-47.4.16-installer.jar"
           },
           "subModules": [
@@ -31,9 +31,328 @@
               "name": "Minecraft Forge (version.json)",
               "type": "VersionManifest",
               "artifact": {
-                "size": 0,
+                "size": 16559,
                 "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/versions__1.20.1-forge-47.4.16__1.20.1-forge-47.4.16.json"
               }
+            },
+            {
+              "id": "cpw.mods:securejarhandler:2.1.10",
+              "name": "cpw.mods:securejarhandler:2.1.10",
+              "type": "Library",
+              "artifact": {
+                "size": 88749,
+                "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/securejarhandler-2.1.10.jar"
+              },
+              "classpath": true,
+              "subModules": []
+            },
+            {
+              "id": "org.ow2.asm:asm:9.8",
+              "name": "org.ow2.asm:asm:9.8",
+              "type": "Library",
+              "artifact": {
+                "size": 126113,
+                "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/asm-9.8.jar"
+              },
+              "classpath": true,
+              "subModules": []
+            },
+            {
+              "id": "org.ow2.asm:asm-commons:9.8",
+              "name": "org.ow2.asm:asm-commons:9.8",
+              "type": "Library",
+              "artifact": {
+                "size": 73498,
+                "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/asm-commons-9.8.jar"
+              },
+              "classpath": true,
+              "subModules": []
+            },
+            {
+              "id": "org.ow2.asm:asm-tree:9.8",
+              "name": "org.ow2.asm:asm-tree:9.8",
+              "type": "Library",
+              "artifact": {
+                "size": 51934,
+                "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/asm-tree-9.8.jar"
+              },
+              "classpath": true,
+              "subModules": []
+            },
+            {
+              "id": "org.ow2.asm:asm-util:9.8",
+              "name": "org.ow2.asm:asm-util:9.8",
+              "type": "Library",
+              "artifact": {
+                "size": 94559,
+                "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/asm-util-9.8.jar"
+              },
+              "classpath": true,
+              "subModules": []
+            },
+            {
+              "id": "org.ow2.asm:asm-analysis:9.8",
+              "name": "org.ow2.asm:asm-analysis:9.8",
+              "type": "Library",
+              "artifact": {
+                "size": 35151,
+                "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/asm-analysis-9.8.jar"
+              },
+              "classpath": true,
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:accesstransformers:8.0.4",
+              "name": "net.minecraftforge:accesstransformers:8.0.4",
+              "type": "Library",
+              "artifact": {
+                "size": 77756,
+                "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/accesstransformers-8.0.4.jar"
+              },
+              "classpath": true,
+              "subModules": []
+            },
+            {
+              "id": "org.antlr:antlr4-runtime:4.9.1",
+              "name": "org.antlr:antlr4-runtime:4.9.1",
+              "type": "Library",
+              "artifact": {
+                "size": 337868,
+                "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/antlr4-runtime-4.9.1.jar"
+              },
+              "classpath": true,
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:eventbus:6.2.33",
+              "name": "net.minecraftforge:eventbus:6.2.33",
+              "type": "Library",
+              "artifact": {
+                "size": 64014,
+                "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/eventbus-6.2.33.jar"
+              },
+              "classpath": true,
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:forgespi:7.0.1",
+              "name": "net.minecraftforge:forgespi:7.0.1",
+              "type": "Library",
+              "artifact": {
+                "size": 29831,
+                "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/forgespi-7.0.1.jar"
+              },
+              "classpath": true,
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:coremods:5.2.4",
+              "name": "net.minecraftforge:coremods:5.2.4",
+              "type": "Library",
+              "artifact": {
+                "size": 31872,
+                "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/coremods-5.2.4.jar"
+              },
+              "classpath": true,
+              "subModules": []
+            },
+            {
+              "id": "cpw.mods:modlauncher:10.0.9",
+              "name": "cpw.mods:modlauncher:10.0.9",
+              "type": "Library",
+              "artifact": {
+                "size": 130343,
+                "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/modlauncher-10.0.9.jar"
+              },
+              "classpath": true,
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:unsafe:0.2.0",
+              "name": "net.minecraftforge:unsafe:0.2.0",
+              "type": "Library",
+              "artifact": {
+                "size": 2834,
+                "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/unsafe-0.2.0.jar"
+              },
+              "classpath": true,
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:mergetool:1.1.5:api",
+              "name": "net.minecraftforge:mergetool:1.1.5:api",
+              "type": "Library",
+              "artifact": {
+                "size": 2572,
+                "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/mergetool-1.1.5-api.jar"
+              },
+              "classpath": true,
+              "subModules": []
+            },
+            {
+              "id": "com.electronwill.night-config:core:3.6.4",
+              "name": "com.electronwill.night-config:core:3.6.4",
+              "type": "Library",
+              "artifact": {
+                "size": 199834,
+                "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/core-3.6.4.jar"
+              },
+              "classpath": true,
+              "subModules": []
+            },
+            {
+              "id": "com.electronwill.night-config:toml:3.6.4",
+              "name": "com.electronwill.night-config:toml:3.6.4",
+              "type": "Library",
+              "artifact": {
+                "size": 31816,
+                "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/toml-3.6.4.jar"
+              },
+              "classpath": true,
+              "subModules": []
+            },
+            {
+              "id": "org.apache.maven:maven-artifact:3.8.5",
+              "name": "org.apache.maven:maven-artifact:3.8.5",
+              "type": "Library",
+              "artifact": {
+                "size": 58077,
+                "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/maven-artifact-3.8.5.jar"
+              },
+              "classpath": true,
+              "subModules": []
+            },
+            {
+              "id": "net.jodah:typetools:0.6.3",
+              "name": "net.jodah:typetools:0.6.3",
+              "type": "Library",
+              "artifact": {
+                "size": 18281,
+                "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/typetools-0.6.3.jar"
+              },
+              "classpath": true,
+              "subModules": []
+            },
+            {
+              "id": "net.minecrell:terminalconsoleappender:1.2.0",
+              "name": "net.minecrell:terminalconsoleappender:1.2.0",
+              "type": "Library",
+              "artifact": {
+                "size": 15977,
+                "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/terminalconsoleappender-1.2.0.jar"
+              },
+              "classpath": true,
+              "subModules": []
+            },
+            {
+              "id": "org.jline:jline-reader:3.12.1",
+              "name": "org.jline:jline-reader:3.12.1",
+              "type": "Library",
+              "artifact": {
+                "size": 150765,
+                "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/jline-reader-3.12.1.jar"
+              },
+              "classpath": true,
+              "subModules": []
+            },
+            {
+              "id": "org.jline:jline-terminal:3.12.1",
+              "name": "org.jline:jline-terminal:3.12.1",
+              "type": "Library",
+              "artifact": {
+                "size": 211712,
+                "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/jline-terminal-3.12.1.jar"
+              },
+              "classpath": true,
+              "subModules": []
+            },
+            {
+              "id": "org.spongepowered:mixin:0.8.5",
+              "name": "org.spongepowered:mixin:0.8.5",
+              "type": "Library",
+              "artifact": {
+                "size": 1089277,
+                "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/mixin-0.8.5.jar"
+              },
+              "classpath": true,
+              "subModules": []
+            },
+            {
+              "id": "org.openjdk.nashorn:nashorn-core:15.4",
+              "name": "org.openjdk.nashorn:nashorn-core:15.4",
+              "type": "Library",
+              "artifact": {
+                "size": 2167292,
+                "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/nashorn-core-15.4.jar"
+              },
+              "classpath": true,
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:JarJarSelector:0.3.19",
+              "name": "net.minecraftforge:JarJarSelector:0.3.19",
+              "type": "Library",
+              "artifact": {
+                "size": 17374,
+                "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/JarJarSelector-0.3.19.jar"
+              },
+              "classpath": true,
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:JarJarMetadata:0.3.19",
+              "name": "net.minecraftforge:JarJarMetadata:0.3.19",
+              "type": "Library",
+              "artifact": {
+                "size": 15895,
+                "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/JarJarMetadata-0.3.19.jar"
+              },
+              "classpath": true,
+              "subModules": []
+            },
+            {
+              "id": "cpw.mods:bootstraplauncher:1.1.2",
+              "name": "cpw.mods:bootstraplauncher:1.1.2",
+              "type": "Library",
+              "artifact": {
+                "size": 8284,
+                "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/bootstraplauncher-1.1.2.jar"
+              },
+              "classpath": true,
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:JarJarFileSystems:0.3.19",
+              "name": "net.minecraftforge:JarJarFileSystems:0.3.19",
+              "type": "Library",
+              "artifact": {
+                "size": 32195,
+                "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/JarJarFileSystems-0.3.19.jar"
+              },
+              "classpath": true,
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:fmlloader:1.20.1-47.4.16",
+              "name": "net.minecraftforge:fmlloader:1.20.1-47.4.16",
+              "type": "Library",
+              "artifact": {
+                "size": 269260,
+                "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/fmlloader-1.20.1-47.4.16.jar"
+              },
+              "classpath": true,
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:fmlearlydisplay:1.20.1-47.4.16",
+              "name": "net.minecraftforge:fmlearlydisplay:1.20.1-47.4.16",
+              "type": "Library",
+              "artifact": {
+                "size": 170511,
+                "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/fmlearlydisplay-1.20.1-47.4.16.jar"
+              },
+              "classpath": true,
+              "subModules": []
             }
           ]
         },
