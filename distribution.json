@@ -1926,16 +1926,6 @@
             "MD5": "1f27eac1f81da68e0e01370a8fe0d932",
             "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/letsdo-bakery-forge-1.1.15.jar"
           }
-        },
-        {
-          "id": "generated.forgemod:letsdo:furniture-forge-1.0.3@jar",
-          "name": "letsdo-furniture-forge-1.0.3.jar",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2814794,
-            "MD5": "b4235d349abaf691302e6e976415bac6",
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/letsdo-furniture-forge-1.0.3.jar"
-          }
         }
       ]
     }
