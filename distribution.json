@@ -1936,16 +1936,6 @@
             "MD5": "b4235d349abaf691302e6e976415bac6",
             "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/letsdo-furniture-forge-1.0.3.jar"
           }
-        },
-        {
-          "id": "generated.forgemod:letsdo:furniture-forge-1.0.4@jar",
-          "name": "letsdo-furniture-forge-1.0.4.jar",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2816299,
-            "MD5": "b95e335e96cb39a5f2a6c7b9c152c76b",
-            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/letsdo-furniture-forge-1.0.4.jar"
-          }
         }
       ]
     }
