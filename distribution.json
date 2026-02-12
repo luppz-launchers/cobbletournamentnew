@@ -1905,6 +1905,46 @@
             "MD5": "bc67944988be50809589b09326c08c43",
             "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/cobbletournamentid-1.20.1__balm-forge-1.20.1-7.3.38-all.jar"
           }
+        },
+        {
+          "id": "generated.forgemod:letsdo:API-forge-1.2.15-forge@jar",
+          "name": "letsdo-API-forge-1.2.15-forge.jar",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1440591,
+            "MD5": "dd92d3824d06f65e2a59888903b4b335",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/letsdo-API-forge-1.2.15-forge.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:letsdo:bakery-forge-1.1.15@jar",
+          "name": "letsdo-bakery-forge-1.1.15.jar",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1539376,
+            "MD5": "1f27eac1f81da68e0e01370a8fe0d932",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/letsdo-bakery-forge-1.1.15.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:letsdo:furniture-forge-1.0.3@jar",
+          "name": "letsdo-furniture-forge-1.0.3.jar",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2814794,
+            "MD5": "b4235d349abaf691302e6e976415bac6",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/letsdo-furniture-forge-1.0.3.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:letsdo:furniture-forge-1.0.4@jar",
+          "name": "letsdo-furniture-forge-1.0.4.jar",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2816299,
+            "MD5": "b95e335e96cb39a5f2a6c7b9c152c76b",
+            "url": "https://github.com/luppz-launchers/cobbletournamentnew/releases/download/v1.0.0/letsdo-furniture-forge-1.0.4.jar"
+          }
         }
       ]
     }
