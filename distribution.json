@@ -11,6 +11,7 @@
       "id": "cobbletournamentid-1.20.1",
       "name": "Cobble Tournament",
       "description": "O Melhor Servidor de Minecraft do Brasil",
+      "icon": "https://media.discordapp.net/attachments/1350975796155515034/1468331179685056573/Logo_Pixeis_DoOutroLado.png?ex=698e2d79&is=698cdbf9&hm=b9fccd1a4eddd9fd0b2c24ce1c2e2350454718582d0b9c0b065380743b4fc1d7&=&format=webp&quality=lossless&width=960&height=960",
       "version": "1.0.0",
       "address": "cobbletournament.redmc.com.br",
       "minecraftVersion": "1.20.1",
